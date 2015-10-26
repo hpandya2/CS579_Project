@@ -1,0 +1,73 @@
+Hey! I made it to the file!!!!contributors       :None
+truncated          :False
+text               :How cool is this 1960 MIT video on Frames of Reference https://t.co/iVrtgUmybw
+is_quote_status    :False
+in_reply_to_status_id:None
+id                 :658112160564776960
+favorite_count     :0
+source             :<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+retweeted          :False
+coordinates        :None
+entities:   symbols        :alse
+coordinates:                  None
+entities:
+   symbols:                      []
+   user_mentions:                []
+   hashtags:                     []
+   urls:                         [{u'url': u'https://t.co/iVrtgUmybw', u'indices': [55, 78], u'expanded_url': u'https://youtu.be/aRDOqiqBUQY', u'display_url': u'youtu.be/aRDOqiqBUQY'}]
+in_reply_to_screen_name:      None
+id_str:                       658112160564776960
+retweet_count:                0
+in_reply_to_user_id:          None
+favorited:                    False
+user:
+   follow_request_sent:          False
+   has_extended_profile:         False
+   profile_use_background_image: False
+   id:                           18864930
+   verified:                     False
+   profile_text_color:           000000
+   profile_image_url_https:      https://pbs.twimg.com/profile_images/1156265792/photo_normal.jpg
+   profile_sidebar_fill_color:   000000
+   is_translator:                False
+   geo_enabled:                  True
+   entities:                     {u'description': {u'urls': []}}
+   followers_count:              91
+   protected:                    False
+   location:                     Bangalore
+   default_profile_image:        False
+   id_str:                       18864930
+   lang:                         en
+   utc_offset:                   19800
+   statuses_count:               180
+   description:                  
+   friends_count:                491
+   profile_link_color:           9266CC
+   profile_image_url:            http://pbs.twimg.com/profile_images/1156265792/photo_normal.jpg
+   notifications:                False
+   profile_background_image_url_https: https://abs.twimg.com/images/themes/theme3/bg.gif
+   profile_background_color:     000000
+   profile_background_image_url: http://abs.twimg.com/images/themes/theme3/bg.gif
+   name:                         RD
+   is_translation_enabled:       False
+   profile_background_tile:      False
+   favourites_count:             420
+   screen_name:                  rdsr
+   url:                          None
+   created_at:                   Sun Jan 11 12:08:37 +0000 2009
+   contributors_enabled:         False
+   time_zone:                    New Delhi
+   profile_sidebar_border_color: 000000
+   default_profile:              False
+   following:                    False
+   listed_count:                 4
+geo:                          None
+in_reply_to_user_id_str:      None
+possibly_sensitive:           False
+lang:                         en
+created_at:                   Sun Oct 25 02:45:40 +0000 2015
+in_reply_to_status_id_str:    None
+place:                        None
+metadata:
+   iso_language_code:            en
+   result_type:                  recent
