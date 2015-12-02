@@ -1,0 +1,4681 @@
+(dp0
+S'tweetText'
+p1
+V@sharmanedit Thanks and good point. Paper uses Article Influence score to calculate citation-weighted influence of avg article per journal.
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat Open-Access Publishing Actually Costs https://t.co/cDssnpAJcK via @chronicle #openaccess
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGlobal Health Network made Nov Writing and Publication Skills Month. New resources all month https://t.co/pcypTerM56 #scipub #medicalwriting
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VImpact of online writing aid for writing a randomized trial report: COBWEB (Consort-based WEB tool) https://t.co/O2lbtU1nn5 @BMCMedicine
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDisclosure Statements I Would Like to See https://t.co/7J0rmeOYQ3 via @DrSharma #scipub #medicalwriting
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+V5 things to keep in mind when fact-checking claims about science @poynter https://t.co/gXEkJwtFp3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIndustry reputation will be a top priority for pharma and biotech https://t.co/A04hm9pwWz @pharmaVOICE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VInteresting way to analyze manuscripts and journals: Seeing the Forest (Plot) for the Trees: https://t.co/7gLKaXK0h3 via @scholarlykitchn
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VExponential Medicine: Healthcare Is Broken, Here's How We're Going Fix It via @SingularityHub https://t.co/J8LGfqbJj6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIs that open access publishing fee worth it? #openaccess #scipub https://t.co/vkSRWs2Tv5
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPHD Comics: An Honest Acknowledgment Section https://t.co/r1ovUddi34 via @phdcomics #scipub
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDo you use these 50 words in psychology writing? https://t.co/0VnhK5orIq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDo you use these 50 words in psychology writing? https://t.co/0VnhK5orIq
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNow up and running @statnews health and medicine publication https://t.co/o7KvsEv54p
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VArtificial-intelligence institute launches free science search engine https://t.co/dgfv59RFd3
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUpcoming #NIH webinars on grant application peer review https://t.co/6nTIuEOME1 #R01
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#GPP3: New guidelines for publishing company-sponsored medical research #pubplan #medicalwriting #scipub\u2026 https://t.co/G0cn1VIksr
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAmerican Cancer Society, in a Shift, Recommends Fewer Mammograms https://t.co/wU5bNp74AS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDigital badges aim to clear up politics of authorship http://t.co/2SO2ihE5TY
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA New, Life-or-Death Approach to Funding Heart Research http://t.co/AEKm0coepw #clinicaltrials
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe Scientific Reason Why Bullets Are Bad for Presentations \u2014 https://t.co/433daayrms
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BoxedWholesale: 1 DAY ONLY: Save 20% off Pyrex 8-Pc Glass Mixing Bowl Set + big deals on pantry favorites! https://t.co/lUYYH6sTH0 http\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BoxedWholesale: \U0001f373 #Thanksgiving brunch idea! Cornbread Eggs Benedict w/ Greek Yogurt Hollandaise https://t.co/BOI0ThYWLT https://t.co/t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BoxedWholesale: Such a SWEET deal! @intheraw + baking favorites on sale - today only! https://t.co/4viLM2NibO https://t.co/aLO1nDMsKY
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BoxedWholesale: Perfect for #friendsgiving \u2764\ufe0f @LoveGhirardelli Brownie Mix on sale - today only! https://t.co/EtBXlO6UkY https://t.co/u\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BoxedWholesale https://t.co/kBJX0QiK0V
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BoxedWholesale Happy Thanksgiving, May all the good things of life be yours, not only at Thanksgiving, but throughout the year!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @amexserve: Introducing Our Family of Prepaid Debit Accounts. Choose the @AmexServe Account for you! #Serve\u000a https://t.co/206CPJd3G8
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NationalPTA: ON THE BLOG: Our Students Deserve to Succeed https://t.co/N9bxUFegeB https://t.co/tRiPhRSK5K
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NationalPTA: Find out how to get tax deductibles on donations for your PTA https://t.co/YeaymCKqHp https://t.co/FsDJ7U8sPg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NationalPTA: How close are we to leaving NCLB behind? #ESEA reauthorization is to be voted next week! https://t.co/tjDfiV4Zlk https://t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NationalPTA: Have you seen the new https://t.co/6klp0TQUM6 yet? Do you like our new makeover?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WisconsinPTA: Finally Leaving NCLB behind? https://t.co/KlOjDFC29Y
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WisconsinPTA: https://t.co/RNqX0pWw3f
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WisconsinPTA: https://t.co/iCxc9uSVd3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WisconsinPTA: Dangerous Lies Teenage Boys Believe https://t.co/fVbWOnXZN6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @oregonpta: Nominate someone doing extraordinary work! https://t.co/f8ttxec7pL
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @oregonpta: Say thanks and win! Write a review of your school today! https://t.co/XgrQAJL77N
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @mcvay51: @AndreaEger @tulsaworld @joy4ok ever see poor kids eat lunch at school on Friday? 3 cheeseburgers for a 2nd grader tells the t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @OklahomaPTA: Online Book Fair Opens November 30th! https://t.co/MAVhvpvpjQ https://t.co/921MjbRx8Q
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AlexLarsonRD: MN @Act4HlthyKids is here at @GENYOUthNow Town Hall! @MinnesotaPTA @TAHRA27 @_HealthPartners #EmpowerYouthNow https://t.c\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@CockrellSchool @UTexasMcCombs students join info session tonight 6PM Eng Bldg CPE 2.216 learn #AIPCareers #HookEm https://t.co/C1i6b49RtY
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@CockrellSchool @UTexasMcCombs students join info session 11/18 6PM Eng Bldg CPE 2.216 learn about #AIPCareers #HkEm https://t.co/MJUP2meeGt
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @vincebertram: Only 35% of parents would encourage their kids into manufacturing. It's time to change misconceptions https://t.co/tWuOqy\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Penn students Join session 10/19 6:30PM Thomas bldg R220 learn about #AIPCareers @PSUEngineering @PSUEnginCareers http://t.co/ksIgX8UKy0
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@UMichStudents tonight 7PM R0230 learn about #AIPCareers @MichiganRoss @UMRossMBW @UMEngineering @UMich UMichStudents http://t.co/JD7vtK1rkh
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Purdue Students tonight 6:30 SCRoom311 learn about #AIPCareers! @Purdue @PurdueEngineers @BoilerUPEngr @PurdueWIEP http://t.co/tFuyB6tRh2
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@UMichStudents attend 10/15 7PM R0230 learn about #AIPCareers @MichiganRoss @UMRossMBW @UMEngineering @UMich #UMEngin http://t.co/yN1o4sXMhw
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#ILLINOIS tonight learn about #AIPCareers 6:30PM Illini Union 314B @EngineeringAtIL @UIUCBusiness @Illinois_Alma http://t.co/gdRgK0kjfN
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Purdue Students Join 10/14 6:30PM Stewart Center311 #AIPCareers! @Purdue @PurdueEngineers @BoilerUPEngr @PurdueWIEP http://t.co/yySASg36PV
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJoin session 10/13 6:30PM Illini Union 314B to learn about #AIPCareers @EngineeringAtIL @UIUCBusiness @Illinois_Alma http://t.co/Sep7WS7htj
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CareerKaizen: Open for Business: Strengthening U.S. Manufacturing and Increasing Investment in the United... https://t.co/SBb6B2DrVi
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@MIT Students, join us tonight at 6:30PM @MIT 5-134. Learn about #AIPCareers! @MITlgo @MITEngineering @MITSloan http://t.co/iEiG2djSrA
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@MIT Students, join our session 10/1 6:30PM @MIT 5-134 to learn about #AIPCareers @MITlgo @MITEngineering @MITSloan http://t.co/ncVpPcR52M
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@MIT Students, career session 10/1 6:30PM @MIT 5-134 to learn about #AIPCareers @MITlgo @MITEngineering @MITSloan http://t.co/s77tkeZI6U
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHave what it takes to work at an AIP #portfolioco? Must be able to handle #chaostoorder #workhardplayharder Resume?...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPE\u2019s create #opportunity through #innovation and enhance #careerautonomy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEvery $1 spent in #manufacturing adds $1.37 to the economy, the highest multiplier effect of any economic sector #bestcareersever...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#AIPCompanies are lean mean machines #leanmanufacturing = #increasedefficiency = #careergrowth \u000a http://t.co/rhADMFUWtu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPE builds businesses, drives growth, offers #careerswithIMPACT.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBelieve challenges can be opportunity? Working at a PE owned company may be right for you! #AIPCareers #PrivateEquity...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy Thanksgiving from #AIU Career Services!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V3 Reasons to Pursue a Promotion First https://t.co/6ePKcHd1No  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#resumetips: Your #resume should be in a Word.doc format. Avoid using a PDF because an applicant tracking system might not read it. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFocus your #resume on skills and accomplishments. Show that you were successful, not that you just did the required duties. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V5 Resume Mistakes to Avoid https://t.co/kbieqwHYLC  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#resumetips: Try using a Professional Summary instead of an Objective. State why you\u2019re perfect for the #job, not just why you want it #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIf you want to know the effectiveness of your social media profiles, you can sign up for @Klout to get a metric of your online influence
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHow to Identify Job Scams https://t.co/0JPhWa7GFr  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFind recruiters, browse company info, or network with professionals in your field on sites like @LinkedIn and @Twitter. #networking  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEmployers will look you up on social media sites before an interview. Use them to show off your expertise &amp; skills. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @niucareers: In the year 2016: The 30 fastest-growing jobs https://t.co/ukjVx1uKpO
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRemember that social media sites like @LinkedIn and @Twitter are powerful tools in your job search. Find jobs, companies or recruiters. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V3 Strategies to Stand Out in a Job Interview https://t.co/Ma60uWKXIB  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhy is personal branding important? The job search is about marketing yourself as an expert, no matter what industry you are in. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPersonal branding is about consistency. Showcase your specific skills on your social media outlets, website, resume, cover letter, etc. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V3 Ways Job Applicants Should Act Like Sales People https://t.co/ncyNtEVdqK  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe job search is about marketing where you are the product. Get your name out there. Create a @LinkedIn profile, showcase your skills. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDo you have a personal website? Include the logo and URL on your #resume, business card, and in your email signature line. #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V3 Questions Interviewers Want you to Ask https://t.co/j0gtJSV1Bk  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#personalbranding tip: Include your name, phone, email, and LinkedIn profile or website URL in your email signature line.  #AIU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA new way to make X-rays https://t.co/fKKGdgVVJc
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V\u2018Outsiders\u2019 Crack 50-Year-Old Math Problem https://t.co/b8Ut0MJXph via @QuantaMagazine
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMeasuring Tiny Magnetic Fields With an Intelligent Quantum Sensor https://t.co/yqG9bKhVWn via @IEEESpectrum
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNow that's what I call a Hacker https://t.co/SdY0hd5bpO
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA Practical Introduction to Tensor Networks: Matrix Product States and Projected Entangled Pair States\u000ahttps://t.co/9OUst8Gswv
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCyborg Rose: Researchers Develop Incredible Electronic Plants https://t.co/5mZ51exdn0
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTEDxEmbarcadero - Whitney Johnson - Disrupt Yourself https://t.co/qJmSg3rACS via @YouTube
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @alark: "Prospective PhD students should go in thinking abt how they will handle psychological &amp; intellectual challenges" - https://t.co\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @alark: Yay!! Google Launches Android Studio 2.0 With Improved Android Emulator And New Instant Run Feature https://t.co/Rk1yXpctAo via \u2026
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPhysics - Viewpoint: Connecting the Higgs Mass with Cosmic History https://t.co/45miBqwXcL
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"Mediocre theoretical physicists make no progress. They spend all their time understanding other people\u2019s progress" (2001 Jeff Bezos)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJeff Bezos Brags on Rocket Landing With Mic Drop First Tweet https://t.co/HnQLeeArAn via @WIRED
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VScientists develop \u2018nanopores\u2019 that inexpensively filter the salt out of seawater https://t.co/1fhW286lIw #via @ScienceAlert
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VQuantum correlation can imply causation https://t.co/3XGmca3B85
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+V\u2018Physics ought to describe only the correlation of observations.\u2019 (Werner Heisen- berg, 1983)
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe universe really is weird, and a landmark quantum experiment proves it https://t.co/w6NbzBwrfC via @physorg_com
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA quantum advantage for inferring causal structure https://t.co/zkDnAHb4mM
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VQuantum games and quantum algorithms\u000ahttps://t.co/zESq4ZPy7c
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIs Quantum Computing the Future of Gaming? - Reality Check https://t.co/HG8JWoWOdX via @YouTube
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @dataiku: Check out this impressive Jupyter notebooks on #Python &amp; #Neo4j! https://t.co/THHZtbdNA4 (via @_nicolemargaret) https://t.co/g\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VArtificial Intelligence Might Alter The Future of Thanksgiving for Workers - Food World News https://t.co/eIFZkNpmCT
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFree Video Reveals the Most Overlooked Secret When It Comes to Weight Loss... -Ad https://t.co/sMyV8Q743X
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGoogle makes machine learning, artificial intelligence top priority - The Nation https://t.co/GCUSWwcG9l
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VArtificial Intelligence and Hold'em, Part 3: No-Limit Hold'em, The Next Frontier - https://t.co/BW3m2Zh3QO https://t.co/8cvvktJ5RR
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VScientists: How Artificial Intelligence Will View Humans in Future - Daily Squib (satire) https://t.co/PtBDLIJGQa
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFree report reveals how to make "small talk" with girls -ad https://t.co/MAZ1CgNI8e
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDie Another Day: An Artificial Intelligence Company Is Bringing Immortality to ... - https://t.co/h93uXa36Q8 https://t.co/FVclnmpMQW
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCan Artificial Intelligence Save Thanksgiving? - Huffington Post https://t.co/7LZeizkZLS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMicrosoft Research developing machine intelligence that can evaluate images ... - WinBeta https://t.co/30WmnL7h5G
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VArtificial intelligence Renesas develops chip to detect production problems - Nikkei Asian Review https://t.co/AlU8pdcGGr
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe science of removing lower abdominal fat (new techniques) -spon https://t.co/kmcyzuagLo
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCan Artificial Intelligence Save Thanksgiving? - Huffington Post https://t.co/x0zjcna7Cy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWill Artificial Intelligence Do Great Harm or Great Good? - Product Design &amp; Development https://t.co/a0md2p4LsB
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VArtificial intelligence Yahoo Japan to hire PhDs for research - Nikkei Asian Review https://t.co/2HWn5fW4PJ
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHere's the Secret Behind Facebook M's Artificial Intelligence - Neurogadget https://t.co/zx5OggwiB7
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNutrition, Wine, IoT, Big Data and Artificial Intelligence Come Together at ... - Sustainable Brands https://t.co/mSfrgB099B
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VArtificial intelligence in healthcare to replace jobs - ITWeb https://t.co/cRoHpVkwal
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V5 veggies that boost female metabolism and burn belly fat -spon https://t.co/VnCDzJQEbA
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat is Artificial Intelligence? - Maine Public Broadcasting https://t.co/uqCAlE3JUP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLord of the Rings Is Helping Facebook's New Artificial Intelligence Project ... - Slate Magazine (blog) https://t.co/d8vzfZRlok
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGood tips, some more practical than others: "Dealing with Loneliness While Traveling for Work"  https://t.co/05vRoaT5sC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHonored to be a featured speaker at Enterprise Data World 2016 in San Diego -- Registration is now open! https://t.co/gXsYaM5JUm
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDoes Creativity Breed Entitlement? https://t.co/iJwtuEEhyN
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Datagrrl looking forward to it, April!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIf you help lead a business and have never read the Netflix Culture deck, you really, really should: https://t.co/pDWHLWrbMJ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThis is a useful reminder: Design Tip #179 Key Tenets of the Kimball Method - Kimball Group https://t.co/YRXtZGAnUC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks @Datagrrl!\u000a https://t.co/nbV2UwdfzP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks @Datagrrl! https://t.co/gMHsrvzp6O
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @dgconference: Get Practical Advice from the Trenches for Successful #DataGovernance with @AJAlgmin, 7-Dec at #DGWinter Conf! https://t.\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe one skill that made Amazon\u2019s CEO wildly successful https://t.co/0C2s2X0yZZ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLess than two weeks until my keynote at the Enterprise DATAVERSITY conference in Chicago! Register today! https://t.co/jmJD2YP9Mb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @enova: Our CAO presents Friday at NYU's Big Data Conference among some of the brightest business &amp; analytics academics: https://t.co/ve\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe Benefits of Being Completely Transparent http://t.co/u2kJ3jwDzD
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VExcited to be joining @UturnData! We help organizations use data and technology to improve their business. http://t.co/5sQwyr7FU2
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSeems like good advice to me! - The 7 Real Reasons Startups Fail (and What To Do Instead) http://t.co/G62whxa1hh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRegistration is open for the Data Governance Winter Conference in Ft. Lauderdale Dec. 7-11! Come to my tutorial: http://t.co/swBjK8w1q7
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VToday\u2019s AWS announcement of QuickSights is awesome news - now we just need some QuickDataGovernance to go with it! @AWSreInvent #reInvent
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOn my way to @AWSreInvent for the first time - looking forward to catching up with 20k of my closest friends!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VExcited to be introducing @DatonomyUS to folks at #reInvent next week! @AWSreInvent
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @bigDataDictum: Congrats @AJAlgmin , Dataonomy http://t.co/z22eiHNLZq is off the ground, "because every business is a data business" #bi\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe wish you a wonderful Thanksgiving holiday! We're thankful for all those who support our organization! #AJGAInternship #AJGA2015
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@nextgolfer thanks for having me!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@HudginsHogan no, but call the office on Monday to talk to Lauren! Good luck this weekend!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhen you check-in at the @NCCGA Kickoff party say hi! I'd love to share #AJGAInternship info with you! https://t.co/g2RDLDAUjm
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHeading to @NCCGA championship today @TPCSanAntonio and hope to meet people interested in #ajgainternship program! #TrailToTPC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#AJGAInternship spring deadline is FRIDAY!! Better hurry to get your application and items in! Visit https://t.co/bJoar6Iu7O now!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#AJGAInternship interview team has worked hard this week interviewing so many candidates, so it's a treat day! https://t.co/8zyal9DORj
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AJGAGolf: Today is the heart of the AJGA Mission...it's @PingTour #CollegeGolf Signing Day! Congrats to the Class of 2016! https://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAll staff spent 3 days in Helen, Ga talking about #AJGA2015 &amp; brainstorming how to get even better in #ajga2016 w/ a lot of fun &amp; laughs!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur annual #RustyCup tournament is taking place (even in the rain) today! Follow the matches of Ops vs. World! https://t.co/kgnN9KJEJ7
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@AJGAGolf FT alum @MentalCoachMatt shares leadership with the current staff of the AJGA during a lunch &amp; learn https://t.co/0CygKwIq4s
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe are very excited to be part of @ADPRConnection today! Come learn a/b our careers in golf, media, PR and advertising! #becomingaVIP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @bsphillips56: Had a great week two with Team 1 at #AJGALondon! Don't know what I'd do without them. #AJGAInternship @AJGACareers http:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe are excited so many people are interested in #AJGAInternship - thank you for your patience while we process applications!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @PGATOURDittmer: #AJGAAlum (kind of) @PresidentsCup! So fun to experience this week in South Korea with Stacey! http://t.co/GMFekD9Q25
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's been a great 3 wks visiting schools to talk a/b #AJGAInternship but it's not too late! Visit http://t.co/iPsvKBgoB6 to apply!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#AJGAInternship is a fit for Dedman School of Hospitality students - travel, experience &amp; golf! Come visit @FSUCareerCenter #HireANole
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBrave the rain &amp; learn a/b spending 2016 on a golf course at the @ncstatepoolemgt career fair from 10 - 3 p.m.! #AJGAInternship is here!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCome meet two leopard loving, golf enthusiastic staffers at the @IsenbergUMass fair to learn a/b #AJGAInternship http://t.co/HWcDSWA8jQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWant to travel w/ us this summer? Stop by the @UF_CRC fair to meet us &amp; learn a/b #AJGAInternship #IAMSHOWCASE http://t.co/R8yUDzeFzn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhy the Humble Banner Ad Is Not Dead https://t.co/uPa8bHI8sZ\u000a#digital #digitalmarketing #digitaladvertising
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWatching LIVE on #Periscope: u2 dublin https://t.co/niLcBCYGco
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VU2 live in Dublin now.  Check out Periscope. #U2DublinConcerts #U2ieTour #u2 #music
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Adweek: How a designer's "Peace for Paris" sketch, made in minutes, became a global symbol: https://t.co/XjOntzvUIf https://t.co/iyyBys\u2026
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDublin tonight.  U2 kicks off the first of four shows this week. Welcome home. https://t.co/9ZUUG87hC4
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V30,sunny and nice lines. Lake Michigan.  Rincon, PR is calling. @ Elder Lane Park https://t.co/K7dvqtwBFu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHome of the brave? Anti-Islam rhetoric grows in GOP. Cowards. #StrongerThanFear #GOP  https://t.co/FBLZyyOKKw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VColombia! Thank you. #colombiana #colombia https://t.co/8KaxJDjB4f
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBelfast 11/18/15\u000aU2. #strongerthanfear https://t.co/hZWLX7SrAd
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA great great night in Belfast. 11/18/15 #strongerthanfear https://t.co/u2bZuwbi8t
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAmazing Special Education Teacher Starts Each Day with Compliments https://t.co/o1TatiyxuN via bradaronson. #education #specialneeds
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWatching LIVE on #Periscope: U2 second part https://t.co/lklWA7oB6l https://t.co/7qJGWq0FHK
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#digital #digitalmarketing #advertising #soul   A company with a soul.  https://t.co/FiYnbRKjIF
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @FeatCustomers: "@Flite is allowing us to reduce the cost &amp; #complexities of delivering outstanding #adproducts to the #market"\u000ahttps://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGood things happening at @flite \u000a\u000ahttps://t.co/9gTrl01Gcv\u000a\u000a#digitalmarketing #advertising #digitalstrategy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDon't look back you can never look back..........https://t.co/0LsTodHTy6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Adweek: We sat down the key players in the #adblocker war. Here's what they told each other: https://t.co/IayyPFXlpn https://t.co/Z5hLe\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#Halloween #culture #workplace #pumpkincarving  https://t.co/Vfft66g0Cg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#awesome #digitalmarketing #programmatic https://t.co/8hbqHeg7bN
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#adtech #adtechlondon #digitalmarketing #digitaltrends  https://t.co/q9qZE1Xe3K
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @bryanlanning: Sometimes at night my mind goes a million miles per hour in a million different directions. I needed to hear this -&gt; http\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @UNC: The sun is shining extra bright this morning after last night's win over Pitt. \u2600\ufe0f\U0001f60e #GDTBATH #GoHeels https://t.co/sBY4vsFWIn
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @UNC: Just look at all that fall. #UNC #GDTBATH https://t.co/Fx4kNDcZb9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe @HaschakSisters made the cutest #golddigger video!! https://t.co/JwAxsgZWcx
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: Declare today, \u201cThis is my time. Today is my moment. I\u2019m ready for release. I\u2019m getting ready for a breakthrough.\u201d
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAre you ready for Inbox Zero? Start a free account at @followupcc: https://t.co/AE8kdPwaa0
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @jimhollister618: Papa says it's about time he got a job. #olliefromfreebirds https://t.co/ApPzNJQ3Gn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @HerCampus: Yes, YOU can (&amp; should!) help support #breastcancerawareness. Here's how: http://t.co/pE8dmCiTmO http://t.co/eKCb5QOqVv
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @twbpUSA: A big thank you to our first contributor Bryan Walker! Follow in Bryan's footsteps and help us reach our goal! http://t.co/ylC\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: People can call you many different things, but you are not what people call you. You are what you answer to.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @HistoricalPics: A young girl meeting a penguin for the first time. http://t.co/70Y9tgiT2m
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: You don\u2019t have to try to find the right people. Honor God and the right people will find you.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: Be a believer and not a doubter. You may not see a way, but God still has a way.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: There will be times in life when it feels like you\u2019re buried. Have a new perspective: You\u2019re not buried; you\u2019re planted.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: Nothing in your life has happened by accident. It\u2019s divinely orchestrated as a part of the plan to make you and mold you.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @GiftedHF: Teen Inventors.  #teens #stem #gtchat http://t.co/O4UfMsiRlv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CarmelaDAgosti: Y'all gotta see my next show: ZOOM IN http://t.co/abB9t4HyAH
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: Whatever you\u2019re believing for, instead of worrying, find a promise that you can stand on.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDo you want your work to be published into a book? Submit your literary pieces and art! http://t.co/NFQGuBqnMW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JoelOsteen: The real battle is taking place in your mind. If you\u2019re defeated in your thoughts, then you\u2019ve already lost.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLast one: One of Michelangelo's slave statues, struggling to emerge from stone (now back to writing...). https://t.co/xqKkShVnsK
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnother random image: Gustave Dore's image of Dante and Virgil emerging from the Inferno, looking up at the stars: https://t.co/AZ8CX7pUBx
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRandom thought: in this Goya, notice the men with guns are faceless. See where the focus is in painting, the light.. https://t.co/tdNnQp3dB1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPower nap &amp; back up. Need at least 45,000 words for submission due late Dec. Need to write more then edit down... https://t.co/Vok2lqV7hB
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHolidays are hard for me. Invites from friends, but maybe not this year ...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@blackthought and thank you for doing that... Listening...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @aaww: HBD #CarlosBulosan! Our interview with @drdawnbm bout the lost history of Filipinos in the organized labor movement https://t.co/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @akacharleswade: What needs to go viral are messages of love and support for the family of #LaquanMcDonald.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"Inspiration exists, but it has to find you working." --Pablo Picasso
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vwriters retreat up in mountains:we'd sit in Casa de Luz just before sunrise&amp;eyes closed,we'd feel the sun rising around us.quite a feeling..
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWoke up, 28 degrees outside, stepped out with a cup of coffee and watched sun rising. Clears the mind for new day. https://t.co/lHoB8ysqo9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAlso, some of my favorite people work/volunteer there. Great bunch of people.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGiving my time to The Night Ministry this evening. For those outside, it's too cold in Chicago today to not have some kind of support.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGoing into the office, although I don't need to. Better to be prepared...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDid eventually get some sleep. Good coffee, good morning...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThat song will be in my head all day tomorrow (today?)... (Also, happy birthday, Catherine!)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOn the train and going home after a great show at the Chicago Theater... https://t.co/MKfNSUSPZ2
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@siempredelilahE wishing that you are having a better day: https://t.co/diHMNZDWea
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThey're playing the 5-hr director's cut of 1 of my favorite movies across the street from concert. Movie finishes 1hr before show. Going! :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGoing to a concert this evening with a friend I don't see as often as I used to. Her birthday weekend... Looking forward to today.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDossier du NYT : la TV transformée: http://t.co/DOibEbgKCo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @metamedia: \U0001f381MediaLab SpeedTraining : 10 places à gagner en RT ce tweet http://t.co/k3g86q0emY #medialabMM http://t.co/JlgXIHGa9A
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ThomasLPB juste sorry pour ne pas avoir recoupé mes sources et t'avoir dérangé inutilement ;)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ThomasLPB Félicitations! Quel texte envoyé à AirBnb pour remporté le gros lot à Courchevel?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @platinn_CH: Les hologrammes, l'innovation à la rescousse des exportations helvétiques? Montres http://t.co/cqHxsPuUWB et Chocolat http:\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DariusRochebin: Le conseiller fédéral en train ou en tram, historique d'une image traditionnelle de la Suisse au #19h30 http://t.co/wfB\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @necrosofty: The difference between the swiss and american press. quite striking. http://t.co/FJCb82IH5o
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGoogle Summer Of Code (GSoC) à l'Université de Neuchâtel le 27 février prochain http://t.co/hLjJ2M3cei - write code for open source projects
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChemicalTour: {Vidéo}Agathe &amp; Stéphane: La chimie &amp; les écrans sensitifs «De vraies sensations au bout des doigt » http://t.co/H3gkke0r\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @alexisdelcambre: « Libération » : les salariés réclament le départ de la direction http://t.co/vZYDYkmwfJ via @lemondefr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VInternet en 1999 - une journée type http://t.co/2ZnWmDDT31 #nostalgieduweb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBuzzfeed en français dès novembre = publicité native en français dès novembre?\u000a#nativeadvert
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vgo home google you're drunk.. indeed! http://t.co/AGPjaFMI1W
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BiIIMurray: I'm changing all my passwords to "incorrect," so whenever I forget, it will tell me "Your password is incorrect."
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDrone-journalism: that's fresh thinking for the future of journalism education ;)\u000ahttp://t.co/vyJkMFnXFq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V'Blackfish' Documentary somehow echoing the new law banning the importing of whales and dolphins in to Switzerland http://t.co/jGBwjUIMDv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat will be the next move shaking the Media World?\u000ahttp://t.co/la1G7NZZ3B
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLes nouvelles, c'est mauvais pour la santé! pour voir ce que le Guardian dit de la toxicité des news: http://t.co/7JrWtaWnP4
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @EconBizFin: The interactive Big Mac index http://t.co/XGV6UK9i
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vis that the future of news? the new mobile social video news network : http://t.co/rEz5sTvJ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @IEG: Portfolio overview: The six biggest #sponsorship spenders in the retail category https://t.co/2twQId50B3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @adage: A-B InBev, SABMiller say no significant savings will come from marketing https://t.co/0h4MRPGAaF https://t.co/Fuc8913PoK
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SportsMoneyBlog: Steph Curry's jersey sales up nearly 600% from last year: https://t.co/sJrti4P7Yp https://t.co/zyq51PVdXP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SportsMoneyBlog: Should sports leagues be worried about merger of Anheuser-Busch and Miller? https://t.co/J5iIndHCEA https://t.co/V4Nn2\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @adage: ICYMI: In a 16-hour tear, Fox books $100 million in ad sales revenue https://t.co/WU0pQtyl4Y https://t.co/W2w5cw1fJQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CrainsChicago: .@MLS has never been more popular, but @ChicagoFire is struggling. The challenges of marketing a losing team. https://t.\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @adage: Kia ads on NBA's All-Star jerseys pave the way for brands during the regular season. https://t.co/l5vM0feHvG https://t.co/36vZVW\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Forbes: NBA tip-off: 5 business stories to watch this season https://t.co/qs4pVfk4Wc
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @IEG: .@NFL #sponsorship helps fuel double-digit sales growth for @mmschocolate and @Skittles https://t.co/GrIjp207yP #sportsbiz
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @adage: Utah Jazz reach naming rights deal with smart home company. https://t.co/QzvK7clvcb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CNBCnow: BREAKING: Yahoo says free NFL Bills/Jaguars game stream received 33.6M total views across all platforms, 15.2M unique viewers \u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @sbjsbd: This deal with make Dos Equis the official beer of the College Football Playoff: https://t.co/iM8xD12I7e
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AdamSchefter: National Car Rental announced it has secured naming rights to new NFL stadium proposed to be built on riverfront of downt\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @darrenrovell: NBA signs official timekeeper deal with @tissot, will brand in-arena clocks, work on new timing system http://t.co/TZpx3b\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @IntersportBuzz: #eSports arenas may be the next step in the young industry's rapid evolution: http://t.co/JUPwPKTcMM via @Forbes @Darre\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Eventmagazine: Marriott partners with the NBA for international events http://t.co/CkPfYPF8or  #experiential #eventprofs
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Havas_SE: 'How Music Helps Brands Strike a Chord With Customers' - more insights on our #FANSPASSIONSBRANDS study from @havasww http://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @KevinHart4real: Let's gooooo Chicago &amp; Toronto!!!! Join me this weekend in my quest to motivate &amp; inspire others to take physical ... h\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SportsTechieNET: MLS announces exclusive education partnership with Southern New Hampshire University #MLS http://t.co/Hmc8fnPhDh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @adage: NBA Finals Reap $224 Million In Ad Sales For ABC http://t.co/zrAhXU84jp
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VT
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's been 5 bottles so far, just FYI
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe urinal cakes smell like fruit loops... In case you were curious. @DougBenson
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI became a twat for you so you better read this shit @DougBenson
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@TheChainsmokers that's a lotta songs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Summer__Set: Discounted Holiday pre-sale tickets are ON SALE NOW for a limited time!  RT this for a chance to WIN 2 TICKETS!  http://t.\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@TheChainsmokers Love Nice Hair Radio. Was wondering, could you list the tracks you strung together for the intro please?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NBCNews: Can't go anywhere without your music? Uber will let you stream Spotify playlists in the car http://t.co/z4S4sZcXhk http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@mirandasyndrome while I am pro dog walking and thank you cards, I think you are confusing my handle for another's.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @bpreynolds01: I was on RT's CrossTalk yesterday/today. http://t.co/75kdthlCJh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe End of the Military-Industrial Complex http://t.co/CG5BInaZ0K
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @TheDailyShow: How a Bill Becomes an Ad http://t.co/hahwwQUIDv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@mint I did and thank you for the attention.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@mint http://t.co/iqOPnT0nof
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@mint there are known issues when linking a Venmo account. This has persisted for almost a year. Could you prioritize fixing this please?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Josh_Solomon15 @iamjohnoliver maybe when you have a k after your followers?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Josh_Solomon15 I may occasionally tweet at folks, delusionally believing big names will notice. #whatsup @iamjohnoliver
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VExpression over impression...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWin or loss by Cotto, I'm playing Big Pun all night regardless.... Puerto Ricoooooooooooooooo!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSuper duper happy birthday to mom dukes Maggie Lou... Man, I am so blessed to have her in my life! Words can't explain... \U0001f60d\U0001f60d\U0001f60d\U0001f60d
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_DIVLife Maryland/G'Town
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOk, enough of this over-hyped game... Time to watch my #Hoyas go at it!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI know I'm not the only Wisconsinite happy that Allen is showing his true colors tonight... Still pissed how he flamed us #ChampionsClassic
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDamn I wish the Knicks would just trade Melo and get it over with!!!
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJay Williams... I'll always respect your game and perseverance. But that plaid, double breasted vest is ashy, shameful and tacky bro...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOk Briscoe... He ain't showed nothing but heart. Him and Murray... #ChampionsClassic
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @bretstrelow: Duke's upperclassman captains 9-for-13; Duke's sophomore guard and four freshmen: 0-for-13
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_DIVLife i said nah...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_DIVLife nah, I just know what I'm talking about lol
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNot gonna lie, these Kentucky guards are killer!!!! #ChampionsClassic
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"I don't care about that (turnover)" - Coach Cal
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Sam_Vecenie: Story of the Duke/UK game so far is the difference between 19/20 year olds inside and 22/23 year olds inside.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @bomani_jones: i mean, it\u2019s impressive. but y\u2019all gotta stop using \u201cdream shake\u201d in vain. i cannot let that slide. https://t.co/Ph7bwTHO\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYou can tell Plumlee's in grad school... I guarantee he leads the nation in pump fakes this year #ChampionsClassic #Duke
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHe is in graduate school, and these dudes are freshman... Maturity plays a part too #ChampionsClassic
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnd that's the problem with high end college basketball... Hella athletes, no true bigs who box and board. Ok Plumlee... #ChampionsClassic
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI'm not gonna say there's too much hype surrounding this game, but Ingram is honestly the only one that's ... https://t.co/1D7SL1IwZy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTo all the black students at Mizzou, we, students of color at Northwestern University and members of\u2026 https://t.co/5XhgY8ady2
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy Founders Day to the Ladies of Sigma Gamma Rho Sorority, Incorporated. We would like to give a\u2026 https://t.co/srNOfGXyX7
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCome out to learn how six of our alumni rose to the top of their industries!! We have partnered with\u2026 https://t.co/JrN2EIVBI7
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHelp prevent Alzheimer's #ENDAlz #AKA #TheLongestDay https://t.co/Hqa45qSeVY
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#InstaSize https://t.co/otmO0RaK87
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJust posted a photo https://t.co/wFDvEFS1Ql
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#ENDAlz #AKA #TheLongestDay https://t.co/TIHKBnOhiL
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJust posted a photo https://t.co/aYSYigjo5G
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJoin Alpha Kappa Alpha Sorority, Incorporated in these final hours of our Community Impact Day: The\u2026 https://t.co/1tTPmsgGUo
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"At 7:08pm, please join the members of Alpha Kappa Alpha Sorority, Incorporated in prayer for the\u2026 https://t.co/ccQ0ZSDr5w
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#PrayForCharleston https://t.co/oMSvJ7SDZp
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPlease continue to lift up prayers for our brother and sister in Charleston. Please continue to lift\u2026 https://t.co/u5l1Wd7g3V
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJust posted a photo https://t.co/ACi0f3CmNJ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOne year ago, we lost a beloved Soror, Maya Angelou. Thank you for the legacy you have left with us a\u2026 https://t.co/DrEgBmL9iC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGamma Chi representing Alpha Kappa Alpha Sorority, Incorporated at last night's OFSL Life Awards. We\u2026 https://t.co/2op3gJsl1N
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJust posted a photo https://t.co/YtqDbVVcw6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur hearts go out to those in Baltimore and their families. Let's all remember to keep Baltimore in\u2026 https://t.co/P3GyDQEeRp
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy Birthday to one of our dearest honorary members of Alpha Kappa Alpha, Mrs. Coretta Scott King.\u2026 https://t.co/CSntARX88f
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGet ready for Northwestern's NPHC to show out because GREEK SCENE 2015 is HERE!!!!! This Sunday 7-9pm\u2026 https://t.co/hZgmcPZa2M
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJust dropped off our chapter donation to support #OneMillionBackpacks at #AKACRC2015 https://t.co/k50lcSQ9Xn
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DOUBLE_TAKE2: Think PINK! Donate any new or used shoes to @AKA_GammaChi philanthropy Soles4Souls. There's a link and green box at the B\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CAREatNU: Heading over to the Rock to meet @AKA_GammaChi, @SHAPEatNU &amp; @MARSatNU for Walk a Mile in Her Shoes! Join us at 6 pm. htt\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CAREatNU: Dedicated @AKA_GammaChi sisters at the start of Walk a Mile in Her Shoes. Activists in Chicago aren\u2019t afraid of rain! http://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NUAEPi: Brothers raising awareness for gender violence and sexual assault. Thanks @AKA_GammaChi ! @nuOFSL @NUIFC @nuNPHC http://t.co/OQ\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@NUAEPi @nuofsl @nuifc @nunphc No thank you!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MellizaLCafe: Use the Hashtag #NUGS2013 during the Step Show tonight!! We want to hear from you! @AKA_GammaChi @TAntalizingTA
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy 96th Anniversary @thetanupes
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA BIG congrats to @DeuceProd2gy!!! Continue to do amazing things especially as AVP!!!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGreekscene is tonight!!! 7pm Tech!!!!
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_Sw33tTiffy_ thanks so much!!! We love you and appreciate you tons!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MellizaLCafe: Our tree walk is today! Come out and learn more about Northwestern's Perennials. :-) @AKA_GammaChi http://t.co/ujU12h3FVY
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRemember Primal Pink??? Well this will be twice the fun!!! Pink Charm!! 3-16-13. Something you don't want to miss!! http://t.co/RqMHDe4M5W
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@nuchiomega yay!!!! We are super excited!! #gameFaceON
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @nuchiomega: @AKA_GammaChi we'll have a team at volleyball, too! :) and that goes for the rest of you - Saturday, 1-3pm at Blom! Get  ...
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CityYearChicago: [Blog] Change Makers Panel at @NorthwesternU w/ @AKA_GammaChi [Event Recap] http://t.co/SFe7yG4k
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CityYearChicago: Amazing turnout for our event last night @NorthwesternU. Thanks to the ladies of @AKA_GammaChi! http://t.co/AUIFoANw
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@nuchiomega Thanks so much for coming!!!!!
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @nuchiomega: A group of sisters had a BLAST at @AKA_GammaChi's Mr AKA pageant last night, with a warm thank you to them for donating  ...
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSKEE Week begins tomorrow!!! Join us for the 10am Service at Second Baptist Church!!!! http://t.co/hkJhQ5JM
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy Founders' Day to the ladies of Zeta Phi Beta Sorority,Inc. especially @NuSigma_Zetas !!!
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Pinterest why do I have to follow topics to get into the app?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Arrow252525 @AYWalton totally agree! Would love to read the finished product!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @APHAAnnualMtg: To everyone heading to/already in Chicago for #APHA15 - Welcome! Here's a message from APHA's Executive Director: https:\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MaryFrancesHeck: Great and important read, thanks to @francis_lam Edna Lewis and the Black Roots of American Cooking https://t.co/R7jPK\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSo much more beautiful than mine! LOL https://t.co/EYYY0y1y3m
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Slate I bought a handheld HB monitor while pregnant to quell fears and for 3 weeks listened to my own pulse\U0001f602 Provided peace of mind later.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPlease join me! I just supported @LiftCommunities by shopping @AmazonSmile. #YouShopAmazonGives https://t.co/FbyWn2gqyg @solinvictus211
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BrandonAmbro @TheLeftoversHBO Perfect Strangers!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYum!!!  https://t.co/hSwRWo4hCl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@neolithichealth  https://t.co/T3EkSxOG55
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ancestry: Just beginning your African American family research? Visit our YouTube videos hosted @CristaCowan w/ great tips: http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLove @Pinterest but those picked for you pins are truly awful. Way too many and maybe 10% are relevant.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @LIFTTheBronx: Have you seen this yet? LIFT is on @Upworthy! http://t.co/agSsZjlUNP :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @neolithichealth: #PSL ? #PPSL #paleopumpkinspicelatte #dontdrinktheextrasugarthisseason http://t.co/vFrdE1Ut6M
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @neolithichealth: Crispy Cauliflower Pizza Crust the right way http://t.co/A087kyAJkZ http://t.co/1ntLwI4iUm
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoMag: A Latin-American market inspired by Eataly will debut at Block 37 next month http://t.co/1LVRI1EFyH http://t.co/FvN9EtVwwl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BoingBoing @hdrubin I had a Hulk bday when I was 4!! Back in the 1800s.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @LIFTCommunities: BREAKING NEWS! We're proud to announce Maria Peña as inaugural president. Join us in congratulating @LIFTpres! http://\u2026
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCongrats on the new role @LIFTpres! Excited to see what's in store for @LIFTCommunities and the contuination of all the good work you do!
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @neolithichealth: Hi friends., moms, and doulas!! Share my article on @mindbodygreen on any social media outlet so that\u2026 https://t.co/xf\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAlways a fan! Best of luck to you both!  @joshuadavis77  @adamlevine #VoiceFinale
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/HuLQs7ypBG
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@NBCTheVoice it's a shame that all these ppl are hating on other ppl's success. The votes don't lie. Sorry about your luck haters.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@joshuadavis77 - congrats!  Excited to hear your selection next week. Enjoy the concert in TC. If i still lived in the mitten I'd be there.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NBCTheVoice: The final artist to be saved by YOUR votes last night is @joshuadavis77! #VoiceResults
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VStoked to see @joshuadavis77 as the first save! Last night's performance was so genuine.  #traversecity #lansing #HometownPride\u000a #VoiceTop8
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NBCTheVoice: RT because @joshuadavis77 is SAFE and moving on to the #VoiceTop6! #VoiceResults
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NBCTheVoice: YOUR TWEETS just saved @joshuadavis77 from elimination!!! #VoiceResults
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NBCVoiceSave: America has instantly saved @joshuadavis77 !!!!!!!!!! \u270c\ufe0f
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMichigan is so proud of @joshuadavis77 !!! SO excited we were able to save you. #DavisNation
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @RachaelBDavis: YEEEEEEEEESSSSSSSSS!!!!!! #DavisNation we did it!! @joshuadavis77 @NBCTheVoice #TeamAdam
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @chrisdopark: It troubles me that Yu watches the Voice. \u201c@TranslatedYu: RT to #VoiceSaveJoshua http://t.co/W6guJKupcU\u201d
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @carlyandjack: #VoiceSaveJoshua my fellow Michigander!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @madelynchung: SEE, even @SawyerFrdrx wants to #VoiceSaveJoshua https://t.co/RyOgovEY4h
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @sorayainthehat_: SO TALENTED AND SO SWEET AND CAN DO DIFFERENT SONGS #VoiceSaveJoshua \U0001f495\U0001f495\U0001f495
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @nikkimbt02: The results seem to be froze on the screen but still #VoiceSaveJoshua
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @GoldenBeverley: Keep voting! #VoiceSaveJoshua. Best voice tonight on #TeamAdam
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @TheOntarioBiebs: aw my entire mentions is filled with retweets for #VoiceSaveJoshua
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @maroonsomething: #VoiceSaveJoshua DO IT FOR THE HAIRCUT
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @emilynahanee: #VoiceSaveJoshua i feel like making multiple accounts just for more votes but i cant
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @KGS_Scott: Warmly greeted by @NU_MSLOC's @AKAtexas &amp; @JenAllenRules at #ACMP #changeconnect. Congrats on a successful day! http://t.co/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @sorokti: Whistle While You Work: Actions of Experienced Job Crafters by @MLBavs of @Imperative http://t.co/DdRwY7BoFn #msloc #PurposeAt\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHow do you find meaning at work? Participate in an #CSR research about #purposeINbusiness. Take 10min survey http://t.co/UmJ4INUlvr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIs your company purpose-driven? Take this 10min. NU research survey http://t.co/UmJ4INUlvr about meaning at work, #CSR &amp; #purposeINbusiness
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VParticipate in a NU #research about #purposeINbusiness. Take 10 min. survey to explore employee sense of meaning http://t.co/UmJ4INUlvr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Food_Tank: Please RT right now the #FoodTank Summit Begins in 10 Minutes! Watch live: http://t.co/tKiEL3pau3! http://t.co/CZ59FLtwI4
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BarackObama: "I want future generations to know that we are a people that see our differences as a great gift." \u2014President Obama #SOTU
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCR #COMMITForum - excited to hear from CEOs and CHROs about building a sustainable workforce! #EmployeeEngagement is the focus today!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#COMMITForum - table discussion question - why are middle age people more sensitive to taking a job at a company with a bad reputation?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOn my way to NYC! Can't wait to participate @COMMITForum. #COMMIT To A Responsible Culture and Supply Chain. #commitforum @TheCROA @CR_Mag
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPresident @BarackObama speaking now at @NorthwesternU campus focusing to the topic of economy - very cool! #NUObama http://t.co/K7uj6qDXEy
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NU_MSLOC: Fun while taking risks at #MSLOCRetreat with Jen Green of @piventheatre http://t.co/vhOxOUk60X
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @kimbayma: Improv portraits or interpretive dance? #msloc #MSLOCRetreat http://t.co/DeTCPp7VKn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @kimbayma: Ice cream breaks are the best. #msloc #MSLOCRetreat http://t.co/CVbgLakbcr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @amber_barger: Learning through improv and sherbet snack in the sunny weather #MSLOCRetreat #msloc http://t.co/lHNOMcFm3L
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JeffMerrell: Twitter chat begins in 1 hr at #msloc430 What does it mean to lead in a networked enterprise?   http://t.co/Z7qZZeKHJU #es\u2026
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @simongterry: Do you really need a call to action? Just act. You know what to do. And if you are still waiting, this is the sign. http:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WayneVisser: Unless #CSR is actually about solving the problems and reversing the negative trends, what is the point? http://t.co/MLDlf\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WayneVisser: Today, our products &amp; our business processes are still unsustainable. Unless we change, sooner or later, they will harm or\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NU_MSLOC: Join these change leaders #MSLOC Apply for Fall 2014 entry by June 10 MS Learning and Org Change http://t.co/c4qDAvC5Km #orgc\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DanielleKerani: #ImThankfulFor: fam, friends, Juilliard, #NYC, #knitting, #mentalhealth, @AKKerani, @JennaFrasier, my man, @FreemanScho\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#happythanksgiving everyone :) part of #mentalhealth is remembering what you're thankful for!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI love sharing these babes because they're gorgeous and all 3 of our colors pop :) we'll have more colors soon! https://t.co/C5pgctigUv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DanielleKerani: Practicing angles with my newly finished scarf knit to #cycle9 of @CW_ANTM. How am I doing @tyrabanks? #workingit https\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLook at these babes almost ready to be shipped out :) #knitting #revolution #handmade #letsdoit https://t.co/32pNFlECDe
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@alanna Just did :) I hope to talk to you more about #knitting and #mentalhealth soon. Currently knitting in my solo apartment :) it's great
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@alanna Hi, I discovered you through your article about #knitting and #mentalhealth. Love it. That is the basis of our company. Will email!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMy colleague at AK Kerani sent me this article by @alanna. Props to you! https://t.co/wv7jZA6CFl. Our mission said better than even I can!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@tyrabanks When I knit my scarves watching your show as I have for years, it makes me determined to fight for #mentalhealth through fashion.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFeeling business minded on this Wednesday off. #knitting while watching our new friend @sarahhartshorne in @CW_ANTM #cycle9.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@SidewalkHustle @HawleyDunbar We have always thrived in the concrete jungles of #NYC and #Chicago. Interview us on #fashion &amp; #mentalhealth?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@thecobrasnake @NorthwesternU Been watching you on #ANTM while #knitting to sell scarves and advocate for #mentalhealth.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@thecobrasnake Oh hey. I've been a fan since interviewing you 5 years ago for my @NorthwesternU project. This is my company. Check it out!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Behance Discover us and our #knitting #mentalhealth visions :) We forge the connection between fashion &amp; advocacy! https://t.co/oG0to3k6bI
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMy favorite part of #antm is when @tyrabanks flies out the models' moms. So many tears. #icant She is so freakin amazing. #somuchlove
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCheck out our beautiful glossy business cards that show off how beautiful @heyitsladynaga's epic logo. :) #fierce https://t.co/EwkjYVeizi
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@courtneys_voice No problem. daniellekerani@akkerani.com. I think you'd like our story and write something really beautiful from it :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@courtneys_voice hi! Thanks for the follow :) I love your blog. So candid and fearless and that's what we're all about. Care to talk more?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@LaineLuczynski7 Thanks for noticing our tweet :) We love to connect with psychologists and we are journalists ourselves!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@rambling911 Yup! And it means I can just take a short break from #knitting and go right back. Let's connect more about #mentalhealth soon!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUtilize these simple tips to enhance your course and make it more accessible:\u000ahttp://t.co/p1oGu21DxI
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Stanford: A $9 million grant will help researchers establish the largest-ever, open-access autism database at Stanford: http://t.co/Q9d\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+V1st iteration of the new site is up! Let's just say I have more edits to come. Created w/@Wix https://t.co/XwCMPkzO7O #MyProWebsite
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VADDIE vs. AGILE Model: An Instructional Designer\u2019s Perspective https://t.co/2cs9OChJop
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @EDUCAUSELI: Discover Emerging Trends in Online #HigherEd: http://t.co/eZQNm7UUPX #EdTech #Gamification #EdChat @usnews @mbbrown
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @brocansky: Infographic: How to Humanize Your Online Class by @brocansky @TLIatCI @jleafstedt @kristi_oneil http://t.co/KwpdO3OUlA #ET4O\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V12 Things Truly Confident People Do Differently https://t.co/p0tcXgCckd
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V\u201c@Inc: Try these 19 timeless habits of higly effective leaders @bizzwriter http://t.co/KNj0dBHpmA\u201d - #9 &amp; 10 are my top two.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vvizualize.me - Ashanti Morgan https://t.co/Sx4GFwxQR6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VReviving Threaded Discussions: Strategies to Enhance Virtual Conversations https://t.co/WoOrDjTdIT
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @EDUCAUSELI: #ELI2015 Content Anchors survey results. See the whole infographic here: http://t.co/CMmaB7Ju8b http://t.co/hQQE2fFybX
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @PhilOnEdTech: NMC Horizon Report for 2015 is out at #ELI2015. \u000a\u000ahttp://t.co/cZCIlC5S5o http://t.co/qTNnTMkdCO
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @derekbruff: Sketchnotes for Eric Grimson's #eli2015 keynote: http://t.co/whdohGk2Gu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAttendees are able to join virtually #eli2015. That's pretty awesome. http://t.co/49iJEwx27o
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAttending my first #ELI2015 conference. Looking forward to great takeaways.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vat work trying to make a difference with students...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SandraTeissier: Incredible! We are far away from equity. https://t.co/FBvLojvXrl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WomenInPA: \u201cWhy Marissa Mayer is too hot to be Yahoo\u2019s CEO: The case against hiring women.\u201d by @AKRudansky https://t.co/Fsbk46uXSJ #equ\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFavorite thing I saw today: this nonagenarian featured as one of the @NYTimes top commenters https://t.co/kGjy26LwYM https://t.co/sz7O18YBHl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @rgay: Stop being surprised by Donald Trump. He is not an outlier. He is your average ignorant person who has a platform.
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Digiday: How https://t.co/ZwxvvCPTZa is adapting its text-heavy explainers to Snapchat's Discover platform https://t.co/LnIKGGGysi
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @voxdotcom: We just launched on Snapchat Discover. Check it out. https://t.co/2qfm3VkwoI https://t.co/6YsXEQCLap
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Satyrikal: Dear Businesses: Defending sexism makes you hated and dumb as h e l l\u000a\u000ahttps://t.co/47B0m8EU8B
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA Hated Phrase That Subway Riders Are Hearing More: \u2018Sick Passenger\u2019: https://t.co/mxvboUu03o
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @PolycrystalhD: Discrimination is not always this overt: https://t.co/W64U5GKda7 #DangerousBusiness HT: @margagual https://t.co/KY1MqB4H\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ajpeddakotla: A must read by @AKRudansky \u201cWhy Marissa Mayer is too hot to be Yahoo\u2019s CEO: The case against hiring women.\u201d  https://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @cschweitz: Women will likely be paid less than men for next 118 years, says World Economic Forum\u2070\u2070  https://t.co/95lFa6vxZV
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@its1833 @chromesparks @EastRoomChicago Thanks! Keep me posted, please :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@its1833 @chromesparks @EastRoomChicago The Ticket link isn't working...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MooreClick: THIS MAKES ME SO FURIOUS CAPS ARE NOT ENOUGH https://t.co/XRQvbQJs7d
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @adyckovsky: Attractiveness shouldn't hold weight in hiring decisions, nor should gender. Good analysis by @AKRudansky https://t.co/NXPI\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ktzhu: @tonystubblebine oh damn das my friend!! @AKRudansky
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DeirdreS: "we would never hire her. Men would\u2019ve fought over who got to sleep with her. It would be too distracting. " https://t.co/nJ7\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DanHigbie: \u201cRacism is unacceptable, and institutional sexism is strong business acumen.\u201d\u200a\u2014\u200a@AKRudansky https://t.co/0eQoSjGsYR https://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLove this @NiemanLab behind-the-scenes look at the @nytimes City Room blog. Journalistic innovation at its best.\u000ahttps://t.co/6zza9UQpiM
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @McCormackJohn: What's Hillary Clinton's plan to fix Obamacare? https://t.co/L2MZ64sJKd
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JohnDennisWEEI: Milton's Store For Men owner Dana Katz begins the huge challenge of transforming Sausage from slob to stud. https://t.c\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: Our hearts and help are with the people of Paris as they confront this violence and evil.
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: Never had a doubt she'd win! Congrats @amyschumer on the first of many #Emmys
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: FYI- this is not me. cc: @amyschumer @nytimes http://t.co/l8RL98tUPJ http://t.co/GgnthWZpVm
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHey @RobGronkowski -- proud to share a birthday with a true legend. Happy and healthy, my man!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: Hard to believe 2 yrs have passed since the horrific BostonMarathon bombing. It did not divide us, but united us &amp; made us \u2026
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AP_Politics: Schumer, Blumenthal call for federal funds for safety improvements at railroad crossings: http://t.co/a2YsSnOg1t
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: 2/2 Mr. Abbas must take immediate action to de-escalate the dangerous polarization. -cs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: 1/2 The murder of 4 rabbis in Israel was caused by Hamas, Mr Abbas, &amp; the Palestinian Authority\u2019s reckless incitement of Pa\u2026
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJust living the dream @maxwellcyoung
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Chobani: Thx @SenSchumer for visiting us + continuing to support our mission to make great food with only natural ingredients. http://t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: Beautiful day to celebrate the opening of the Rail Yards, the latest section of the @HighLineNYC with @EdwardNorton http://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @jakeyjakeboston: Congrats to @agerney a leader and change agent for the safety of our communities.  well deserved. http://t.co/pGb9mxjd\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Everytown: Today, the movement for common-sense gun laws has lost a tireless and dedicated advocate in Jim Brady: http://t.co/FhxPpSggn6
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @meetthepress: Sen. @chuckschumer (D-NY) on Pres. Putin: \u201cHe\u2019s a schoolyard bully\u2026we should raise the sanctions.\u201d
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSchumer: Putin craves international prestige. Threatening WTO and World Cup status would get his attention.
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @markknoller: Former NYC Mayor Bloomberg flying El Al to Tel Aviv tonight to show support for Israel &amp; confidence in security at Ben Gur\u2026
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Schwarzenegger: I couldn't agree more MT @SenSchumer: Our political primary system needs reform; top two would moderate our politics. h\u2026
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@SenSchumer in NYT: For those of us in despair over polarization in Congress, reform of primary system is a start. http://t.co/i3obPStG68
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @aterkel: For the record, I have the same old phone as @SenSchumer. http://t.co/BkFdm5NBrW http://t.co/oIapZMQOo1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @emerywebster: In case you missed the news... https://t.co/2wHvVFsCXx -- getting lost in my headphones for the rest of the day #compton \u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@CassidyHubbarth Thanks, you too! My IG: ak_alldayy_ (seldom Twitter user)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWTG @CassidyHubbarth! https://t.co/DAYX2bY3eh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@WilliamShatner #unfollowed #sorrynotsorry
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @PCDoinIt: Chicks dig the long ball. [W] #WalkOffYabo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SportsCenter: Kris Bryant (2-5, 3 RBI) hits his 1st career walk-off home run in the bottom of the 9th as Cubs beat Rockies, 9-8. http:/\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@diplo Revolution or Pon De Floor!!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @EverAfterFest: Want a free @EverAfterFest ticket? RT this post and tweet us your favourite @diplo track and we will pick one of you! ht\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoSports36: Chicago Cubs Minor League Wrap: May 18 - Bleed Cubbie Blue http://t.co/uhBSxOBBRB
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoSports36: Chicago Bears To Make Special Teams Special Again - Da Windy City http://t.co/Kiky19C4lW
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SnoopDogg: Just posted a photo https://t.co/m4b9bdkqbK
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CoreyRoseTV: Did the rain wake you up this morning? Or did it make it hard to get out of bed? Rain is in the forecast for the rest of t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AP: Rise in US dollar's value delivers gains and losses from Asia to Europe to the US: http://t.co/So9SL3BxgE
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @VitoAeroplane: Happy Birthday @Miss_GraceJones http://t.co/VTQzjxyYiB
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CoreyRoseTV: Got a question for you @martyconiglio ..Are we wetter than Seattle lately? Can we compare the month of May in both states?\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@SaraUnderwood @FirstSliceMedia - Yes, yes I would \U0001f60d\U0001f60d\U0001f60d\U0001f469\U0001f3fc\U0001f469\U0001f3fc\U0001f469\U0001f3fc
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWTG Twitter, WTG.... http://t.co/Utw3K44SDR
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @disco_biscuits: The Big Lebowski is finally on @netflix! The @disco_biscuits abide.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MattForte22: I want to say Thank you to all my teammates (especially my hogs up front in the trenches) grinding to\u2026 https://t.co/HhIxul\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @truTV: Catch @TeamCoco's hilarious and historic visit to Cuba TONIGHT at 11/10C on truTV! http://t.co/Y4pEd9QwAx http://t.co/Q6GkDVgfzW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLooking forward to it ! #CV #career #cover_letter https://t.co/BkXJ9aXxSW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMBA student Evgenios Petoumenos from the communications dept at AXA \u0391\u03c3\u03c6\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae / \u0391\u03a7\u0391 Insurance now on the floor https://t.co/uhUUDrMCOP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMBA alumnus Vassilis Toulias, Transfirmation Manager at AXA \u0391\u03c3\u03c6\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae / \u0391\u03a7\u0391 Insurance now presents #alumniunusual https://t.co/AXiFcJw7Cy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAXA \u0391\u03c3\u03c6\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae / \u0391\u03a7\u0391 Insurance now at ALBA Graduate Business School #YourCareerOurBusiness \u2014 feeling excited
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJoin YOUR ALBA Alumni Association for mingling and mixing tomorrow night from 8pm onward! #alumniunusual https://t.co/KO5jKS2jtK
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VToday is AXA \u0391\u03c3\u03c6\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae / \u0391\u03a7\u0391 Insurance Day at ALBA Graduate Business School! We look forward to welcoming Clio... https://t.co/makU1S5zyN
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAlumnus of the Month: Dimitris Michalakis, MBA 200 and OTE TV BU Director! #alumniunusual Read up on Dimitris'... https://t.co/xV1FhXOehX
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTomorrow we welcome @AXA Greece &amp; alums V. Toulias &amp; E. Petoumenos! #YourCareerOurBusiness #alumniunusual https://t.co/iWqs4z7BNW
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHSBC Poland just contacted us and is looking for ALBA talent! Check out the ALBA Networker for details on how to... https://t.co/SIByAdhue1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @YKoutrakis: Bill Gates: people have no clue just how many jobs will be replaced by software bots https://t.co/sXbiYtBeKz via @sai
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCongratulations Panos Filippis, MBA 2009, on your new job at Apivita as International Business Director! Keep on... https://t.co/PxrXb70PnA
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI posted 12 photos on Facebook in the album "Accompanying our Shipping Students to Delta Tankers" https://t.co/meEwq44iMg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI posted 17 photos on Facebook in the album "Google Greece Presents their Digital Talents Academy" https://t.co/xPBBvX2lnN
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFull house #GoogleAtALBA https://t.co/8Bfm4sOzyp
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTo meet market demand Google Greece launches a Digital Talents Academy. Excellent initiative! #GoogleAtALBA https://t.co/mw1vMbpEYa
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe Greek market needs digital talent says Google. You've come to the right place! @ALBA_edu #GoogleAtALBA https://t.co/XKuX2XrYj7
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @mmoragianis: 1.5 billion YouTube views per month in #Greece #GoogleatALBA https://t.co/61nwGTx6ev
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGoogle Greece now on campus #YourCareerOurBusiness \u2014 feeling excited at ALBA Graduate Business School https://t.co/j7vliSYnDz
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLots of new #job posts on the ALBA Networker from Siemens, Viva Services, Intersys, InVitro, Google, Lidl Hellas,... https://t.co/HFlnGJt5kv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThere are 6 remaining seats for tomorrow's Google event! Register NOW via Eventbrite.This is open to non-working... https://t.co/y1D9JwAdug
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@cbspolitics @berniesanders @hillaryclinton \u000aCan we involve the UN in the ISIS problem??
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VISIS ....Can we involve the UN with the ISIS issue??
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat role could the UN perform in the fight against ISIS?
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat role should or could the UN have in fightiing ISIS  ??
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@CourtlyCheck \u000aWOW!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.

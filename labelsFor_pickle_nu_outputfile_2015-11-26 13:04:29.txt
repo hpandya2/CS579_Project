@@ -1,0 +1,100 @@
+(dp0
+S'tweetText'
+p1
+VRT @sw_off_party: \u304a\u524d\u304c\u59c9\u306b\u306a\u308b\u3093\u3060\u3088
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @rudyharitha5: \u30ab\u30c3\u30b3\u3044\u3044\u5199\u30e1\u3060\u000a\u307f\u3093\u306a\u307f\u3066\u306d\u7b11\u7b11 http://t.co/y8z4rkYcXj
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Sma__J \U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9\U0001f3e9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V\u77f3\u6cb9\u304a\u3044\u3061\u3044(´\uff65_\uff65`)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @muteglub: \u304d\u3061\u304c\u3044\u56e3\u306b\u306f\u3044\u3089\u306a\u3044\u304b\u3044\uff1f\U0001f607
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ray_kino_ \u3069\u3093\u307e\u3044
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@uns_0
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Theus_Soares_ \u304a\u3063\u3071\u3044
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@KeshawnLakes23 Nice to meet you\u311f( \uff65\u04e9\uff65 )\u310f
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ALSARRYYY \u3061\u3093\u3061\u3093\uff01
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@KeshawnLakes23 Thank you for follow-up, I do not speak only childish English Best regards!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.

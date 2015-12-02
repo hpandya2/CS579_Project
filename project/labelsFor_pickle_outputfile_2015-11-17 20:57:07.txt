@@ -1,0 +1,2386 @@
+(dp0
+S'tweetText'
+p1
+V#Codevita -2013, Unleash the geek within you:)
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#Codevita-2013 is open for all science &amp; engineering students. Visit https://t.co/nE8636r3HT &gt; Campus Commune for more details
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#Codevita, 1st prize - 1 Lakh (INR), 2nd prize - iPad2, 3rd prize - Samsung Galaxy Tab
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @vinothselvam: #chennai #retweet #tcs #competition #tata #coding #hr #codevita #tataconsultancy\u2026 http://t.co/MhuC6ch6fE
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#CodeVita-2013, till date, nearly half a lakh young coders are gearing up to take the challenge &amp; plenty in line to register yet.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#Codevita-2013\u000aThe TCS Coding Contest. Registrations in full swing. Have you registered?
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI just did the #HourOfCode - check it out! @codeorg https://t.co/NFXBkvJhOi
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#CoderDojo #muscatine held its first event 1 year ago today!! #kidscancode we've since hosted 100 kids &amp; held 15 events!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @dgcpt: #ILookLikeAnEngineer Destroys The Tech Nerd Stereotype http://t.co/k1kz6YdXie
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @wwcsf: #TheyLookLikeEngineers #ILookLikeAnEngineer http://t.co/mcLEZzXN3g https://t.co/XKRp6vnObR
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's JULY! Stop by the Muscatine BWW. Show them this "Teammate" card! We'll get 10% of your purchase! http://t.co/VzRlOe3G8O
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJuly is right around the corner...If you live in Muscatine, check out the following! http://t.co/6GDoC61dWV
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @jeannereed1: @CoderDojoIA http://t.co/qDapJnTzIb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @STEM_SE_Iowa: Congrats @CoderDojoIA on receiving IA Governor's STEM Advisory Council Seal of Approval #IowaSTEM @Timothy_Bower http://t\u2026
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @jeannereed1: On our way....#coderdojo @CoderDojoIA  https://t.co/MHNtnHCHLb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCome out to @BOONIESONTHEAVE TONIGHT between 5-11p for the #CoderDojoMuscatine fundraiser! #CoderDojo #MuscatineJournal
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MusserLibrary: The next @CoderDojoIA  event is June 22. FREE tickets here: https://t.co/eBjqgPpTX1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#CoderDojoGameNight #4LetterWords #code #kidscancode #muscatine #dojonight #dojodate @CoderDojo http://t.co/QGC9x5wK6C
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V4-letter Words! #CoderDojoGameNight #CoderDojo #dojodate #muscatine http://t.co/xziIO1Dccd
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#CoderDojo GAME NIGHT going on NOW!!!!!! #dojodate #muscatine
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLast few hours for tickets! Who wants to come play games like "Order Up!" and "Decode the Code"? http://t.co/Cg5mNA4NWv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJoin us for our first ever #CoderDojo Muscatine GAME NIGHT! Ever watched Hollywood Game Night? LIKE THAT!! But CODE! \u000ahttp://t.co/Cg5mNA4NWv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSave the Date\u000aEat great food and support a great cause!!! #boonies #coderdojo #fundraising http://t.co/uc2iWN7ynQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"There's math in this?!" #coderdojolive #coderdojomuscatine #dojodate @coderdojo http://t.co/IhWI3li4ag
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCoding #sphero at #coderdojomuscatine! @SpheroEdu @gosphero #KidsCanCode #dojodate http://t.co/k5VWeHofl8
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHuman mazes with #sphero #coderdojo #coderdojomuscatine @coderdojo @williamska88 http://t.co/ts3Cag9GLa
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @EconUS: A default could leave Greece like Argentina without the soyabeans http://t.co/qrVSgKIxeh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @nytimesbusiness: For Silicon Valley start-ups, how many angels are too many? http://t.co/qEmf9dy4yC http://t.co/MFF8uyexkZ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Krazy_Flower: That's it. I'm rooting for the White Walkers now. Kill them all and bring Winter with you. #GameofThronesFinale
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#gameofthrones book nerds get so pissed #noonecareshowyoufeel #stopwatching #stoptweeting
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SenSanders: #TBT Bernie Sanders, then chairman of the CORE social action committee, speaks at a sit-in at @UChicago in 1962. http://t.c\u2026
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOn a scale of 1 to Sansa Stark, how bad is your dating life? #gameofthrones #sansastark #stark #thenorthremembers
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DeanModified: The rationale to defend the #garlandshooting perpetrators is the same as defending rapists:\u000a\u000a"She dressed slutty. She was\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @washingtonpost: Obama chooses Chicago for his presidential library http://t.co/6UXmtTOuyQ
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @HuffPostPol: Bernie Sanders raised $1.5 million in the first day of his campaign http://t.co/aHpgDyw82E http://t.co/dhQ7usk44g
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BernieSanders: This campaign isn't about Bernie Sanders. http://t.co/YB3lPK4qjw
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @RBReich: HRC: "The deck is stacked in favor of those at the top. Everyday Americans need a champion and I want to be that champion." Th\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#Baltimore #BaltimoreRiots #BaltimoreUprising  Baltimore explained http://t.co/Lh5OvdbeEu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @businessinsider: Hillary Clinton's first Democratic opponent just pulled in a surprising fundraising haul http://t.co/6JHRd7uEAN http:/\u2026
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @nytimes: Bernie Sanders Announces Campaign for President http://t.co/Xbu9g96cwJ
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CNNPolitics: Poll: Most want Cuba off terror list http://t.co/Zh0mw8sIbg http://t.co/fa7G9lkDoQ
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @neiltyson: Okay to not know. But when you don't know, yet think you know, and wield power in that ignorance, it's a recipe for disaster.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @billmaher: Explaining Jokes to Idiots (@ZaynMalik Edition) #RespectForZayn: http://t.co/jZYDxkei2m
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @themathforum: "Math doesn't change" and "It's unconscionable" from @FreeLibrary's "A treasure trove of books was discovered\u2026" http://t.\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @billmaher: Atl cheating teachers, shame on you, yes - but that sentence? Once again, U can do bad shit in America, just don't try it wh\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NSF_ENG: Due dates: Biomedical Engineering (BME): Full Proposal Window: October 29, 2013Program Guidelines: PD 14-5345 ... http://t.co/\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NSF_ENG: Due dates: Biophotonics: Full Proposal Window: October 29, 2013Program Guidelines: PD 14-7236Biophotonics appl... http://t.co/\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NSF_ENG: Due dates: Biotechnology, Biochemical, and Biomass Engineering (BBBE): Full Proposal Window: October 29, 2013P... http://t.co/\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Chevron: Renewable energy? It's blowing in the wind. http://t.co/Ia3PUmrDC1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Chevron: A fuel-efficient car saves you $$ every time you fill up. Calculate your savings here: http://t.co/uK3KN6s7Ix http://t.co/HjtD\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Grantsdotgov: EarthScope: Modification 0 http://t.co/yYCZHWzI1e
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Grantsdotgov: White Pine Green Up: Modification 0 http://t.co/PbYiIE3RW4
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @USGrants: DoD Breast Cancer Breakthrough Award: Modification 0 http://t.co/B1HrgbfveS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @engineer4change: New programming and cloud-based software can add smart-phone features to cheap phones. http://t.co/Q7YUWxDAxl #ICT4D
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Stanford: "Use rejection as a redirection." -Stockton Councilmember @MichaelDTubbs, '12, at #TEDxStanford
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @USGrants: Office of Special Education and Rehabilitative Services (OSERS): Rehabilitation Services Administration (RSA):... http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NancyODell: Had such a great time at my alma mater Clemson University-I made a little change when I got back to LA-take a look(-: http:\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ClemsonNews: Photos from Clemson University's spring commencement. Is you graduate pictured here? http://t.co/pi0LmgK0yr #clemson
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @EDFedRegister: Applications for New Awards; National Institute on Disability and Rehabilitation Research-Traumatic Brain Inju... http:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @FloridaEngineer: How do you know if your structure would withstand a category 5 hurricane or an E4 tornado? Gator Engineering... http:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NSF: News: Climate Record From Bottom of Russian Lake Shows Arctic Was Warmer Millions of Years Ago:  The Arctic wa... http://t.co/PCef\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @USGrants: Heterogeneous UxS Teams/Development of Rigid Body Dynamics Software Library/The Use of Botanical DNA Materials... http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @USGrants: Request for Capability Statements for Environmental Monitoring for Post Hurricane Sandy Beach Re-nourishment P... http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ClemsonNews: Congratulations Clemson University graduates! Good luck with the next phase of your lives. http://t.co/ugVE2Cn0e6 #clemson
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ClemsonNews: Watch Clemson University Commencement live at 9:30, 2:30 and 6:30. http://t.co/Lo6phR00xt #clemson #nancyodell
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLambdaMoo [Wicked Glitter]: As much as this name sounds like a sorority or fraternity, it is neither.Ph... http://t.co/TsEBloDc #college
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRecent grad looking for work? @DecisionLens is hiring skilled as3/Flex developers! http://t.co/1oi9oebB pls RT #jobposting #jobs #hiring
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VScholarship Idol Video Contest [Student Loans for College]: The Scholarship Idol Video Contest is looki... http://t.co/nC7zsLPB #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWrite A Cover Letter For Better Letters of Recommendation [PracticalPremed]: via Flickr user Jonas Desi... http://t.co/yHtSFQpy #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHow to Make Lean Nachos [College Gloss]: Sometimes you just have to have Mexican food. It is truly an o... http://t.co/doFEy5jb #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHumor: This Week's Top Web Comedy Video: Student Loan STDs - @Gizmodo http://t.co/j5TIKiZD
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFree TurboTax 2012 Premier Giveaway and Review [The College Investor]: It\u2019s a little bit over 2 months ... http://t.co/oZKKFCt7 #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SpillersRyan: @CollegeBlender Klassmate is on a nationwide search for students to become founding class of a network of CampusMates  ...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe boosted our data server so the site should be much responsive now, no more 504 errors! Give it a shot: http://t.co/9erjr6da
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V27 College Tips I Learned Sophomore Year [College Info Geek]: Last year I published a post entitled 42 ... http://t.co/RTD0KSi3 #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat does your coffee drink say about you? [Lovely Undergrad]: by Loku. Here's an infographic for all o... http://t.co/HYCwHJY7 #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDown So Long: Helping a Friend With Depression [The Big Q]:  Down So Long: Helping a Friend With Depres... http://t.co/m08CW0vX #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWho Makes More Money  Men or Women? [Average College Guy]: My girlfriend and I have been debating about... http://t.co/WXKQqiBJ #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@EDUFastTrack thanks for the RT, appreciate the help spreading the word!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIf you hit '504 Gateway Timeout' when accessing the site pls hit refresh til the site loads- we are working on fixing the issue right now!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@barb_leung We're still alive and kickin!  I'm going to DM you to follow up :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat to Pack for Thanksgiving Break [College Gloss]: These products should take you everywhere from Tha... http://t.co/LyZObTye #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAppropriate study group etiquette, part II [Ask an Advisor]: In my previous post about appropriate stud... http://t.co/MnMjd5jM #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBefore and After [Stephen's Blog]: A tree in my front yard at the beginning and end of a snow storm. (t... http://t.co/EzHnkv1v #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VView Past Grade Distributions and Student Reviews with Courserank [HackCollege]: Every semester/quarter... http://t.co/8C43gKnj #college
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/EHuAIInSl1 Stories via @PearsonNorthAm @SCU_Eagles @StudentsCloud
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MyEducationNow: Unique college program to a different place abroad... https://t.co/3ugsmygHC6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/Vll0ZfbcGv Stories via @bradwolverton @BenGriffithsMe @Collegedotcom
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/fssH31K1y8 Stories via @westminsterpa @OAHSTigers
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/MzIMbTTU6K Stories via @EdUSAupdates @GEICOCampus @prnedu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttps://t.co/ozB0uWHpX4
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ECPIUniversity: #ShareTheLove @keg2014gek @VoiceRunnerTX @CollegeBoundNet for being top High Value members this week :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/j6eSkDhfcw Stories via @arotherham @latrobe @sdougboyd
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VStudents: Are you terrible with your money? https://t.co/sVj08Keicy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @KapTestNews: Interesting &gt; No approach to lower college costs has majority support of parents. https://t.co/7t3JXnWtwj
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/6DjaPxnAHK Stories via @InternationalUL @BostonTutoring
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/5p2gPoQPgx Stories via @PoliticsK12 @WESAdvisor @Grockit
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VE.D. II: The Not-So-Early Decision https://t.co/fyYBDT6XX1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/GmnDy6v21y Stories via @ASTMStudentFans @generationsfcu @AUTigerWire
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/8YMIBCo7Ty Stories via @APforStudents @universityofga @LuciaLumina
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/JFld1ufRuU Stories via @westminsterpa @CarnegieMellonQ @hollandcodes
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/p1f5942tSp Stories via @SpoonUniversity @careerdesign_er
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @KapTestNews: New Kaplan survey: 43% of parents say their child will take BOTH #SAT &amp; #ACT to get into college. https://t.co/oiJDs7YNfI
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/l9wo5RSV3N Stories via @socalhomes411 @GEICOCampus @jseglin
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe CollegeBoundNet Daily is out! https://t.co/0KcC2QV5hy Stories via @Dr_Eli_Jones @jeffreyotan @UNK_Admissions
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VProud to add our friends in Statesboro Georgia the Eagles family of Georgia Southern @GSUBuzzz to the @CollegeBuzzz Family
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUS snowboarder @sagekotsenburg won the FIRST GOLD MEDAL of the Olympics on Saturday. http://t.co/40ToYNnpBO http://t.co/CWqchCGJIu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe applaud @CVS_Extra with their decision to end the sale of tobacco products an important step to save lives http://t.co/SYdbj9dz0U
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @College_Experts: Target These 10 Unique Scholarships in 2014 http://t.co/9xgIZ29IsY  #scholarship #scholarships #college #highschool
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CollegeBoard: "Why You Should Use Official SAT Practice Tests", per Bloomberg Businessweek http://t.co/fwZOGbn8hM @BW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCNN Analysis: Some college athletes play like adults, read like fifth-graders Compare Colleges http://t.co/pPFV3IsVYB
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @alphasigs: Good luck to our many #InterfraternalBrothers who are having their Leadership Programs this weekend! @BetaThetaPi @officials\u2026
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BU_Tweets: President Brown, with @AAUniversities leaders, signs letter to Congress asking to restore funding for #research: http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNeed to Know how RT @USATODAYcollege: 13 tips for nailing a Skype interview - http://t.co/5gf3BnCE9t
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V\u201c@USATODAYsports: The #CoachesPoll preseason Top 25 is here! Get your first look: http://t.co/3brXneXKdl\u201d
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VToday's Lesson @Blackboard Need an intro to using calendars in #BbLearn? Watch this 3-minute video to learn basics: http://t.co/jL6por7koH
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@RidePost builds private networks to get people to,from &amp; around your campus.Connect your campus to improve transportation &amp; sustainability
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWant a Greener Campus, no hassle with car issues,  but still not miss the BIG events? @RidePost has the answer !
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhy are college costs multiplying faster than we can pay for it? http://t.co/vBXG8UkKqI
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VClassy move Mr. Pres George H.W. solidarity move for secret service agents son Credit: Office of George Bush #41 http://t.co/2fRPosmOZ5
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHump Day - the holiday that comes every week. http://t.co/ZryoQxRWOI  http://t.co/Wff8U6ZNx4
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @mygreenschools: Want to know more about John Mandyck of @UTC? Read more about his role and why #greenschools are so important to him: h\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @iTunesMusic: Do you have a favourite song you sing to your son? #AskRobin
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @CNET: Apple's big numbers from 2013 Q3: http://t.co/craKoHUFgO
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @iTunesMusic: What do you want your fans to take away from #BlurredLines? #AskRobin http://t.co/ZLUYMC786i
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's CollegeFish's Transfer Challenge Month! How does your college promote transfer readiness or success? http://t.co/u77SjDyZ1v
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPhenomenal work! Be sure to post pics on the CollegeFish Facebook page, too. http://t.co/rsInSTxhXU  @PTK_AlphaPsiTau @thegeeksource
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYou did a great job, @tysingletary! You are a stellar example of leadership in Phi Theta Kappa &amp; on your college campus. Rock on!
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLooking for trendy transfer topics and new scholarships for transfer students? Follow us on Facebook, too. http://t.co/rsInSTxhXU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VKnow of any four-year colleges or universities that offer graduate scholarships? We'd love to help you promote them. #transferpathways
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLooking to net yourself some scholarships? Check out more than 2000 scholarships in http://t.co/0I0q1pYsaJ  today. #scholardollars
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy networking @UNA_Admissions! We are excited to have @UNA_Admissions represented at the All-AL Academic Team Program. #transferpathways
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+V102 4-yr. colleges &amp; universities will be represented at @PHITHETAKAPPA's transfer fair in San Jose on April 4th! #completionpathways
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCommunity Colleges &amp; @PHITHETAKAPPA are helping students pave the way to the Ivy Leagues. http://t.co/NrTd9W66Vb  #transferpathways
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you, NISTS @transfertweet, for all that you do to equip admissions counselors with tools to empower transfers to succeed!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V100 fascinating statistics about social media, tweeps. Enjoy! http://t.co/VVYvDepz
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe College Completion Agenda is about many things, but more than anything it's about hope. Thanks @sneadstatecc! http://t.co/JfbyclxT
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V2013 must have job skills http://t.co/NQgtCgRc. What are you doing to prepare? #c4 #phithetakappa #collegefish #collegecompletionmatters
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VReady for more exciting news? Western Governors University @wgu in UT has just started awarding a scholarship for Phi Theta Kappa members!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's been a big week for our members. We have 3 new scholarships in CollegeFish for you! @UofAAdmissions, @CollegeofStRose &amp; @TheGardnerWebb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCollegeFish has a brand new look! Have you checked it out? #snazzy #collegefish
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSr.college enrollment management tweeps: Great article on using technology to increase retention &amp; analytic capability. http://t.co/Uu2EJbiC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe are excited about working with you all, too @BGTC_Services! #transferchampions #collegecompletionmatters #studentsuccess #collegefish
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Transfer_2_NDC: Community college transfers.....check out our @CollegeFish_4yr  new page and @PHITHETAKAPPA scholarship!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTweet, tweet! New scholarship alert for Phi Theta Kappa members from @TheGardnerWebb. Check it out in http://t.co/0T3rozlD! #theGardnerWebb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @kimmeeroyce: Ice cream freezer- now THAT is a great invention! #CICExpo https://t.co/PId1CqPKCE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @freechoicelearn: "Invention is 50 percent observation; the other 50 percent is figuring what to do with it." -Dr. Kumar Patel #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ENAtkisson: Fun and inspiring @CollegeInvent awards ceremony at @uspto tonight with @MoRocca. I agree with Mo that the future is in gre\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur winners all on stage together! A tremendous group! (cc @Columbia @Harvard @UCBerkeley @wmunews @Yale) #CICExpo https://t.co/hKXwaReHQR
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @hannah_paulin: The country's greatest young innovators! @CollegeInvent #CICExpo Thank you @uspto @abbvie @ArrowNAC @DuPont_News https:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe view from above! #CICExpo https://t.co/OsNGPwRBll
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA group shot of all the Finalists on stage! They are now all alumni of our program! #CICExpo https://t.co/llHD7e4TSy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks to all who followed along throughout today's #CICExpo! We have so much more to share so keep an eye out for photos, fun and updates.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTo us, all of our Finalists are winners and we're so lucky we got to know each one of them throughout this week. #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VKolesky's submission was "3D Bioprinting Vascularized Human Tissue." #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnd David Kolesky of @Harvard takes top honors for the Graduate Category! Way to go, David! #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe Graduate Silver Winner is Staff Sheehan and his invention, Corrosion-Resistant Molecular Coatings. Staff attends @Yale. #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe Graduate Bronze Winner is SWAPS. Sangyoon Han &amp; Tae Joon Seok make up the team. Both men attend @UCBerkeley. #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSince the Undergraduate Winners have been announced, next up will be those earning the highest scores from the Graduate Category. #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUndergraduate Gold Winner: the @NeoVent duo from @wmunews! We're so happy for all 3 teams! #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUndergraduate Silver Winner: Neil Davey of @Harvard. His submission was "Early Cancer Diagnosis." #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUndergraduate Bronze Winner: Highlight: Powered Additive for Disinfectants. The group is from @Columbia. #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWinners are being announced right now... #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V$100K worth of cash and prizes is about to be awarded. We can't wait to learn who wins! #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"These collegiate inventors are bold and fresh." -@MoRocca #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JonBoeckenstedt: Interested in Medical College Admissions Data? A #HigherEd Data Stories blogpost #EMChat http://t.co/yeaBIpRc21
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NACAC: #NACAC College Openings Update: Space, #FinancialAid &amp; Housing Still Available: http://t.co/YHoE0rmuwh #emchat http://t.co/7SFVs\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnother great class off to college and beyond! Congratulations to @dcdsclassof2015 ! http://t.co/tSQcB4afAy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DCDSNews: TRADITION NEVER GRADUATES. Congrats, girls, and welcome back to the state finals for the second straight year! http://t.co/g2\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCongrats on a great season @DCDSLacrosse ! Played up against the best competition and showed you belong. One bounce. http://t.co/0h3daAY11c
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DCDSNews: Men's lacrosse drops state semifinal to Detroit Catholic Central 14-13, ending a great season. Be proud of how you represente\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SmartColleges: 55% of global leaders have a degree in the #LiberalArts. That's #LiberalArts Power! Stat via @InsideHigherEd http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @PBRMichigan: Country Day  wins the Division 2 -District 61 Championship.  @Steve_MannOF @NickNeibauer3 @DCDSNews http://t.co/wyVFpJ2vIJ
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MIPrepZone: BASEBALL: @DCDSNews pulls away from #Ferndale for district title WITH PHOTO GALLERY - http://t.co/haoJSXeYDO http://t.co/81\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DCDSNews: Yellowjackets soccer closes out a 5-1 win over Marine City to advance to regional final vs. Grosse Ile 6pm at DCDS. #dcdsathl\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @michiganstateu: Hi, Linton Hall. (Photo/D.L. Turner) #MSUView http://t.co/S7WyZL3o2X
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SmartColleges: No need to ace the #SAT to go to an awesome college. Many #LiberalArts colleges don't require it! via @CBSMoneyWatch: ht\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SCADdotedu: The grads are seated. Next up, the speakers and #DisneyPixar's John Lasseter. #SCAD2015 http://t.co/DOEzPrGoqr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MaristFYP: It's a great day to be a Red Fox at day 7 of #MaristOrientation! http://t.co/KLMmftijpS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @rpi: David Rubenstein receives hon. degree for reminding us of the limitless possibilities enabled by democracy. #RPI2015 http://t.co/z\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SCADdotedu: Awaiting the class of #SCAD2015. You'll see them soon on the world's stage. http://t.co/OqQfukW5fy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @HamiltonCollege: Kennedy Center for Theatre and the Studio Arts featured by Design News. @ArchNDesignNews http://t.co/9PN9iJXAns http:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @rpi: Congratulations to our students getting ready to walk the stage! #RPI2015 http://t.co/sxMeWeYb1W
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MIPrepZone: BOYS LAX - @DCDSNews rolls past GP South to claim D1 regional title WITH PHOTOS - http://t.co/JB179GhWxU http://t.co/0p7mnZ\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGr8 night 4 @DCDSNews ! Congrats 2 @DCDSLacrosse 4 taking Regionals &amp; Girl's Soccer 4 taking Districts! @dcdsclassof2015 Go out champs!
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWant an awesome method to lose belly fat? Try garcinia http://t.co/P4BN853XjY
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vthis miracle fruit actually works! :D http://t.co/KldHiDPTLt
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTechnex 13 - Technology Events http://t.co/hQ5w0Dukca
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNEXUS 2013 - Cultural Events http://t.co/NQSxYCdHix
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIIM Ahmedabad completes final placements for the Class of 2013 - General Placement News http://t.co/rfzBXdqy8d
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBIT Sindri Placement 2013 | 187 Offers | Companies wise summary - General Placement News http://t.co/cX2X3TK2Hs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDHWANI 13 - Cultural Events http://t.co/SQwWoBJHtw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMectrotz 13 - Cultural Events http://t.co/g5Koz86gfw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJadavpur University-ETCE department placement - Branch Wise Placement News http://t.co/U80Z7EHESM
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNES(National Entrepreneurship Summit) - Business Events http://t.co/9GiYvM7Cze
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPlacement report of Mu-Sigma at KIIT University - College Placement News http://t.co/RIcel6xZP6
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VKIIT Reviews by me http://t.co/Tyk6ZR7GL0
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VENVA 2013 - Others http://t.co/K7afiM6CjE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTremors 13.0 - E-Contest http://t.co/LpEk7qirpd
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJIGYASA 2013 - Others http://t.co/C6JDmC6hHD
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNES-2013 - Business Events http://t.co/VCMV368yhQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VInnovations 2013 - Technology Events http://t.co/y2UjFeUFSq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VZelos '13 - Technology Events http://t.co/mF6QCv8UmG
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNirulotsav-2k13 - Others http://t.co/qJR3xwKv0j
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPrayatna'13 - Technology Events http://t.co/TR9LAbsXkh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThursday from 5-8pm our Art Showcase is featuring the talented @Ibephotography. You won't want to miss it! http://t.co/4nKtM0on64
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThursday from 5-8pm our Art Showcase is featuring the talented @Ibephotography. You won't want to miss it! http://t.co/uBc5fNtTDY
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCome out Thursday &amp; Enjoy FREE Lasagna, Jazz &amp; an Art Showcase at University Print &amp; Graphics http://t.co/fVPdrd90Ea
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe desire of knowledge, like the thirst for riches, increases ever with the acquisition of it. \u2013 Laurence Sterne
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe great accomplishments of man have resulted from the transmission of ideas of enthusiasm. \u2013 Thomas J. Watson
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYesterday\u2019s home runs don\u2019t win today\u2019s games. \u2013 Babe Ruth
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe great leaders are like the best conductors \u2013 they reach beyond the notes to reach the magic in the players. \u2013 Blaine Lee
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe entrepreneur always searches for change, responds to it, and exploits it as an opportunity. \u2013 Peter F. Drucker
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools. Confucius
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTo be successful, you have to have your heart in your business, and your business in your heart. \u2013 Thomas Watson, Sr.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIn the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.Harold Geneen
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIn business, I\u2019ve discovered that my purpose is to do my best to my utmost ability every day.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTo succeed\u2026 You need to find something to hold on to, something to motivate you, something to inspire you.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhere there is an open mind, there will always be a frontier. \u2013 Charles F. Kettering
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYou must either modify your dreams or magnify your skills. \u2013 Jim Rohn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYou must remain focused on your journey to greatness. \u2013 Les Brown
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYou must be the change you wish to see in the world. \u2013 Mahatma Gandhi
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIndustry is the soul of business and the keystone of prosperity. \u2013 Charles Dickens
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSuccess is often achieved by those who don\u2019t know that failure is inevitable. \u2013 Coco Chanel
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYour most unhappy customers are your greatest source of learning. \u2013 Bill Gates
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSome Monday inspiration... http://t.co/M7sSxEZt8S
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe're pumped to announce that we were voted \u2018Best Job Site for Students\u2019 in the @AboutJobSearch Readers Choice Awards! Thanks for the votes!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@College_Talent Law #7, "80% of success is showing up"- Woody Allen. Tell us what the remaining 20% is. http://t.co/j3f4w8EhJf
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@USATODAYcollege offers you some tips to think about before accepting your first job http://t.co/mWo9IbqSbR
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur video team hard at work (@thequikdraw &amp; @HersheyintheD)! http://t.co/JFnsivhHts
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ljrenwanz nice! Let us know if you have any questions on getting your profile set up.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks for the follow, @ljrenwanz! How did you hear about us?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHi, @AlishaQL. How's it going over there at @quickenloans? Thanks for the follow!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYour #resume can't tell your whole story, it's up to you to fill in the blanks #collegetoptalent http://t.co/WTBbCn9aw1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"Do something every day that scares you" - Eleanor Roosevelt. RT if you agree! #inspiration http://t.co/di8fJYKs7G
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe're all about standing out! Check out this article by @mashablejobs http://t.co/gw7YSwE77K for 5 great tips!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe '30 Second Challenge' has come to an end. Congratulations to Shannon, Chase, Jessie, and all of our runner ups!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ukwebjobs Howdy! Thanks for the follow!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Food4Thought616 2 days left to use your network! Get votes &amp; win a cash prize! Share your video http://t.co/bgYiCKVXTv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Shealy You've got 2 days to get more votes, the game isn't over! Use your network &amp; share your video http://t.co/MemtP8SITT
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@shannonvesely Hold on to 1st place by getting more votes! Can you get to 150 by Friday? http://t.co/nxlJM5F0GS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@eblempa Use your network &amp; get votes! You still have time to earn cash, 2 days left! http://t.co/JTkShE7fry
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Purple_Kissez You've still got time, get votes &amp; earn cash.  2 days left in the @College_Talent competition! http://t.co/0Bma0U95nt
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWinners are being announced right now... #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V$100K worth of cash and prizes is about to be awarded. We can't wait to learn who wins! #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"These collegiate inventors are bold and fresh." -@MoRocca #CICExpo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JonBoeckenstedt: Interested in Medical College Admissions Data? A #HigherEd Data Stories blogpost #EMChat http://t.co/yeaBIpRc21
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NACAC: #NACAC College Openings Update: Space, #FinancialAid &amp; Housing Still Available: http://t.co/YHoE0rmuwh #emchat http://t.co/7SFVs\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnother great class off to college and beyond! Congratulations to @dcdsclassof2015 ! http://t.co/tSQcB4afAy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DCDSNews: TRADITION NEVER GRADUATES. Congrats, girls, and welcome back to the state finals for the second straight year! http://t.co/g2\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCongrats on a great season @DCDSLacrosse ! Played up against the best competition and showed you belong. One bounce. http://t.co/0h3daAY11c
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DCDSNews: Men's lacrosse drops state semifinal to Detroit Catholic Central 14-13, ending a great season. Be proud of how you represente\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SmartColleges: 55% of global leaders have a degree in the #LiberalArts. That's #LiberalArts Power! Stat via @InsideHigherEd http://t.co\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @PBRMichigan: Country Day  wins the Division 2 -District 61 Championship.  @Steve_MannOF @NickNeibauer3 @DCDSNews http://t.co/wyVFpJ2vIJ
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MIPrepZone: BASEBALL: @DCDSNews pulls away from #Ferndale for district title WITH PHOTO GALLERY - http://t.co/haoJSXeYDO http://t.co/81\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @DCDSNews: Yellowjackets soccer closes out a 5-1 win over Marine City to advance to regional final vs. Grosse Ile 6pm at DCDS. #dcdsathl\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @michiganstateu: Hi, Linton Hall. (Photo/D.L. Turner) #MSUView http://t.co/S7WyZL3o2X
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SmartColleges: No need to ace the #SAT to go to an awesome college. Many #LiberalArts colleges don't require it! via @CBSMoneyWatch: ht\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SCADdotedu: The grads are seated. Next up, the speakers and #DisneyPixar's John Lasseter. #SCAD2015 http://t.co/DOEzPrGoqr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MaristFYP: It's a great day to be a Red Fox at day 7 of #MaristOrientation! http://t.co/KLMmftijpS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@MichaelFrawl3y Get more votes &amp; earn a cash prize. Only 2 days left in the competition!! http://t.co/3PgNB8t2Ya
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@NOTstatistical, Use your network to get more votes &amp; earn cash a cash prize. You've got 2 days! http://t.co/vlAWJbq4VS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOver past 10 years, we've won more @Benefits_Pro awards than all other companies combined: https://t.co/6FZzni5htT https://t.co/GGCOVa7Rs0
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThis benefits season, understand why accident insurance may be right for you: \u000a\u000ahttps://t.co/Xnnt4zi08o https://t.co/PPMoheU653
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYou might find managing #millennials difficult, but it's definitely worth it:\u000a\u000ahttps://t.co/vadsKF6Rwj https://t.co/DCccenRD8p
+p2
+sS'label'
+p3
+S'6'
+p4
+s.

@@ -1,0 +1,3736 @@
+(dp0
+S'tweetText'
+p1
+VRT @pickover: Sometimes the beauty of physics and optics is a form of poetry, or of love. Sunset curling up along a wave. http://t.co/sttSW\u2026
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @IndianExpress: Nagaur Fair: Glimpse into one of the largest cattle fair in Rajasthan shot by @achaoklater http://t.co/1XeTvuZOLm http:/\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MaheshNBhatt: Pause and read: http://t.co/iPfkpx0ktS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/pd63Yl8nBX
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/l06VzNEgG8
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"@FindTheWild: Grand Canyon of Yellowstone http://t.co/nNBk6QT3i5"
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Discovery: Are polar bears saving themselves? http://t.co/ccCx8KT22n http://t.co/qnmb4qHBm9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Discovery wonderful picture with a message from nature \U0001f340
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V2015 violence on the roll...waiting for humanity to rise above all odds...and keeps on rising \U0001f340
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#GoT #S04E09 surely reminded me of the movie Kingdom of Heaven
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_Sibaprasad_ I can see why are you shifting your attention from roorkee to Delhi now a days :-P
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGreatful to spend the day with mother on this special day @Techfest_IITB #MothersDay
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_Sibaprasad_ well, is it the main gate which decides the reputation of an institute then?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWell, you don't witness such great chase usually #RRvsRCB
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI'm Mycroft Holmes! #ZimbioQuiz http://t.co/Oo51opQX6b
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI turned my computer into a Wi-Fi Hotspot using #Connectify. Share Internet with the awesome @connectifyme app here:\u000a http://t.co/f9bmTW2nvJ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vok.. so #Best trying to impress God by the bouncers? No way he can get that :D #ThankYouSachin
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vunpredictable and never easy #Life
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vthere are many #FriendsAndFashion, but dont make smoking one of them #ISMOKE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#ISMOKE Because my girlfriend has everything to kill me ;)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy b'day @saqib0308 Great day to quit smoking #ISMOKE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#MoviesICannotGetOver #NoSmoking was one hell of a movie of 2007 @TheJohnAbraham. #ISMOKE http://t.co/GIAtdFPQiv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ShreySingh3: \u0926\u0942\u0938\u0930\u094b\u0902 \u0915\u094b \u092a\u0930\u0947\u0936\u093e\u0928 \u0924\u094b\u0939 \u0939\u0930 \u0915\u094b\u0908 \u0915\u0930\u0924\u093e \u0939\u0948, active smoking ho ya passive, \u0915\u0941\u091b \u0915\u0932\u094d\u092f\u093e\u0923 \u0915\u0930\u0915\u0947 \u0926\u0947\u0916\u094b, \u0917\u094c\u0930\u0935\u093e\u0928\u094d\u0935\u093f\u0924 \u092e\u0939\u0938\u0942\u0938 \u0915\u0930\u094b\u0917\u0947 .. #ISMOKE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#Ismoke because I stopped smoking. When I stopped smoking, my voice changed... so drastically, I couldn't believe it myself. Bob Dylan
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGreat Initiative @Techfest_IITB #Ismoke
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI ran like a cheetah - well, like a cheetah that smoked too much #ISMOKE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSmoking kills. If you're killed, you've lost a very important part of your life #Ismoke
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI Support Movement tO Kill cancEr #ISMOKE\u000ahttp://t.co/GIAtdFPQiv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe winter is coming https://t.co/L6UVOg1Ui1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEu lidando com essa pre season https://t.co/6osTbTyoqi
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@matteorenzi time to show Italy's ready to lift millions out of poverty w/agriculture at #GlobalCitizen Festival http://t.co/LcHU3vWQEV
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAid should prioritize the world's poorest people. @MimicaEU join us at #GlobalCitizen Festival &amp; commit 50% of EU aid to LDCs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThx @DFATD_DEV for listening to #globalcitizens\u2014Now @pmharper @ThomasMulcair @JustinTrudeau commit to #EndPolio if you are elected as PM!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks @irishmissionun for co-facilitating #SDGs. @Irish_Aid @CharlieFlanagan join us at the #GlobalCitizen Festival &amp; commit to #endpoverty
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe need sanitation heroes. @jokowi, can we count on you? Put sanitation on the global agenda at the #GlobalCitizen Festival.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@AIi_Babacan &amp; @MFATurkey tnx for prioritizing women's equality at @G20Turkey2015\u2014Now come to #GlobalCitizen Festival &amp; make a commitment!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCongrats #Denmark on #GeneralAssembly Presidency &amp; 0.7% to ODA\u2014now come make a commitment at the #GlobalCitizen Festival
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@ItMissionUNNY @noynoyaquino you have the power to make sure a hygiene indicator is part of the new #GlobalGoals. Can we count on you?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAfrica just marked 1 year w/o a case of #polio. @TonyAbbottMHR @David_Cameron now commit to ending polio for good at this year's #CHOGM
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@matteorenzi @JohnKerry #Merkel come to #GlobalCitizen festival to show support for food security &amp; nutrition for 500M people @RegSprecher
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@MFAIceland &amp; @SCpresidenciauy thanks for standing up for women around the world\u2014Now come to #GlobalCitizen Festival &amp; make a commitment!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTo end open defecation we need to talk about it. @JimKim_WBG &amp; @sesamestreet have an important message, WATCH: http://t.co/FtSh0sNHub
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe are 1% away from ending polio for good\u2014@dfat @CanadaFP will you make #polio a priority at this year\u2019s #CHOGM? #whatnext
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe must #FundEducation to #LetGirlsLearn &amp; lead\u2014@erna_solberg come to #GlobalCitizen Festival &amp; support education http://t.co/aaP7jpyh2z
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThx #IsabellaLovin for signing the #women4wash declaration. Now it's time for @SweMFA to make a commitment at the #globalcitizen festival!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VATTN: #GlobalCitizen Festival @pearljam @beyonce @edsheeran @coldplay to launch #GlobalGoals to end poverty http://t.co/7gmNROOGyl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you Lord for another day you give me to start again and correct my mistake.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @RealTalkKim: Being a Christian doesn't change what you deal with, it changes how you deal with it!!!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @RealTalkKim: The voice in your head that says you can't do this.... Is a LIAR!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/e4BZ2TGV9j
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWalvisbay cold vakwe2 oh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@MariaNepembe. Pray hard for real madrid to score .
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/7VvnXfyxCy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBut the bible did not allow it.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnyone to help me please to answer this question!!! It is right for a WOMEN to PREACH IN CHURCH?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @brenhughes: One of the Devil\u2019s tricks: 2 get Xians 2 pour their energy into something that isn\u2019t God, but kind of close to God. http://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Siphe_Mabindza: Believing in yourself is the first secret of success \u2641\ue674
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHe was wonded for my transgression He was bruised for my inquilts , surely He bear my sorrow and by His triples im Healed !!Thank u Jesus
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/cwETqA5tQN
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you Lord for your Amazing Grace ,love and joy in my life. thank you Jesus\u2661\u2661\u2661\u2661\u2661 much lovs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/Z3hllchxVy
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @gichfransis: Love of Christ so freely given,\u000aGrace of God beyond degree,\u000aMercy higher than the heaven,\u000aDeeper than the deepest sea #Hap\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JimDenison: Don't let Satan use God's forgiveness to encourage sin. If we drive a nail into wood, a carpenter can remove the nail but t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIs you!!! http://t.co/f0mo9N9tW2
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @rgriffith62: I liked a @YouTube video http://t.co/5HZVu2MXC5 Pearry Green Personal Knowledge about the cloud 1963 Bro William Branham
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhen God has another plan walk away and just say yes we don't need to understand all his plans.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#boehner going over the President's head to conduct international affairs-- #treason ?  http://t.co/KAOqTJTRxB
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBoehner/racist Republicans considered suing, impeaching- anything  to discredit Obama, now Boehner has gone too far: http://t.co/KAOqTJTRxB
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MotherJones: This Is an Early Contender for the Worst #SOTU Tweet of the Night http://t.co/z2134yiqIq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @mashable: Street artist Banksy's powerful message of perseverance after Paris attack http://t.co/HDvaYGArUp http://t.co/Q0Q3jgOdMW
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ELTIEMPO: Incendio forestal afecta cerros de Villa de Leyva #Boyacá http://t.co/pfYRnP7kgC http://t.co/5DHJmvQAMS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @nytimes: A startling look at how profits elude the taxman http://t.co/ZmO3hObog2 http://t.co/XzJkIgoThP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @repjohnlewis: 53 yrs ago today I was released from Parchman Penitentiary after being arrested in Jackson for using "white" restroom htt\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NewsHour: Obama hopes to protect Pacific Ocean by creating world\u2019s largest marine preserve http://t.co/W7t3ej2tZf
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ELTIEMPO: Colombia, con la frente en alto en el Mundial http://t.co/YRXGe8Mub1 #VamosColombiaCarajo http://t.co/ErCn3uR8N0
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @wadhwa: It is time to divide and conquer on immigration reform. Focus on what we agree on, do what is good for the country\u000ahttp://t.co/\u2026
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NHLBruins: UNLOCKED: Retweet this for the chance to win a #NHL15Bergeron signed puck. 2 winners. Lunchbox included. http://t.co/UACkRnc\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ELTIEMPO: Grafitis antimundial, una manera de protestar en Brasil http://t.co/1Gyy0OdOkm http://t.co/o2iIPy2mAe
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WSJ: Dogs and their humans take part in Colombia's first "Pet Run":  http://t.co/NbWQk5JTNh (Angela Melo) http://t.co/xN6P9Xw7Ps
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NancyPelosi: This National Women\u2019s Health Week, we can celebrate that being a woman is no longer a preexisting condition #ACAworks http\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WCVB: #BRUINS WIN!! Take 3-2 lead vs. #Canadiens. Can win series Monday in Montreal. #StanleyCupPlayoffs http://t.co/mzJbkdIMpZ
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NASA: An adult osprey guards its nest  @NASAKennedy, part of Merritt Island Nat'l Wildlife Refuge http://t.co/SQ8Jows3qy http://t.co/X8\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ABCWorldNews: Michelle Obama joins #BringBackOurGirls movement on Twitter: http://t.co/9tOrY5yAGp http://t.co/OUi3au9Azo
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@hillhulse @nytimes  Can you say #racism and #impeach the non-white president before out of office and mar his presidency w black eye!
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @equalitynow: Hundreds Protesting Abduction Of Chibok Girls http://t.co/0yxZIEjaqF #Freeourgirls #BringBackOurGirls
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSee how your college ranks... http://t.co/si6hq7GuSi
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCheck this out. 100 students start college...How many finish? http://t.co/h1Xo2vcavI
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAre college grads at the most elite institutions just excellent sheep? http://t.co/NgMapRwzP9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIs a college degree worth it these days? http://t.co/wlHl5ScRFf
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIndiana State University has 101 Grads http://t.co/D2Q1rLW3T2
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe 20 Mistakes You Don\u2019t Want To Make In Your 20s | Elite Daily http://t.co/LnBcp17CdQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCheck out our friend Ethan Knight making things happen http://t.co/ngE3lSL7nL
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/y2CvzHJ6VK
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWill your college go out of business before you graduate? Check out this great article by Mark Cuban... http://t.co/VFkExqDQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCheck out these stats about how the job market is affecting college graduates... http://t.co/UGcpzQvE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThe Changing Cost of College http://t.co/x9A4nBUa
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/7AgLWOf1
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDecisions &amp; Discernment with Nicole Lindsay Sunday at 9pm EST http://t.co/dHNDzgAj #teaching #hr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks! RT @dmstringerassoc: RT @drboycewatkins1: Jullien Gordon:  What Your Friends Need to Know about Your Business  http://t.co/fv984Ey5
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @deepakchopra: True self knowledge is to know our essence as eternal being  #CosmicConsciousness
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @thejennabond: Happiness
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTonight at 9pm EST I'm teaching how to end your scarcity mindsets. #Abundance register for the call &gt;&gt;&gt; http://t.co/gwBL6h7r.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VBoiled water takes 5 min to boil. Sometime we cut the fire that fuels our dreams just before they start to boil. Don't let the flame die.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @wisdomsquote: Your happiness is what truly matters most. Do what you have to do in order to be happy.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFormal education will make you a living. Self-education will make you a fortune. \u000a-Jim Rohn http://t.co/jWQX6gTI Sunday #Abundance
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and New England Clam Chowder,Entree:Parmesan Crusted Tilapia w/Roasted Red Potatoes and French Green Beans.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Cream of Potato and Italian Wedding Soup,Entree:Chicken Machaca Taco Bowl with Mexican Rice.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Broccoli &amp; Cheddar Soup,Entree:Old Fashioned Beef Stew with Mashed Potatoes and Dinner Roll.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Vegetarian Chili and Chicken and Wild Rice Soup,Entree:Baked Parmesan Chicken Breast with Pasta.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Chicken Noodle Soup,Entree:Kansas City BBQ Pork Sandwich with Cole Slaw and Corn Chips.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and New England Clam Chowder,Entree:Shrimp Teriyaki Stir Fry over White Rice.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe are phasing out our individual Twitter pages. Make sure to follow @IIT_Dining. Follow us today and be eligible for a FREE coffee!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Broccoli &amp; Cheddar Soup,Entree:BBQ Chicken with Wild Rice and Green Beans.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Vegetarian Chili and Chicken and Brown Wild Rice Soup,Entree:Chicken Marsala with Rice Pilaf and Steamed Fresh Baby Carrots.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Chicken Noodle Soup,Entree:Sloppy Joe Sandwich with Red Potato Salad and Corn on the Cob.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and New England Clam Chowder,Entree:Creamy Fettucine Alfredo with Shrimp.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe are phasing out individual Twitter pages and switching to @IIT_Dining for all menu posts and updates. Make sure to follow our new page!
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Broccoli &amp; Cheddar Soup,Entree:Braised Beef Tips with Mashed Potatoes and Dinner Rolls.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Vegetarian Chili and Chicken and Wild Rice Soup,Entree:Arroz con Pollo.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Chicken Noodle Soup,Entree:Hot Italian Meatball Sandwich with Caesar Salad.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and New England Clam Chowder,Entree:Crispy Fish Sandwich with Pasta Fresca Salad and Green Beans.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Cream of Potato and Italian Wedding Soup,Entree:Beef Machaca Taco Bowl with Mexican Rice.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Steakhouse Chili and Broccoli &amp; Cheddar Soup,Entree:Homestyle Meatloaf with Mashed Potatoes and Broccoli Spears.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V10west Special:Vegetarian Chili and Chicken &amp; Wild Rice Soup,Entree:Chicken Pot Pie with Biscuits.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPresent for bash @ techmela\u000a#techmela
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYesterday It was fun time  @ Techmela. Professional shows were amazing #techmela
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSee my All-Time Cricket World Cup Greatest XI and Pick Your #CWCGreatestXI now! http://t.co/9DHnVamRbE
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHI GUYS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI m fine
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @pragyanojha: Thanks a lot for all your wishes. It wouldn't have been possible without great team work. Keep supporting us. Love to all.\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSachin tendlukar
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@YUVISTRONG12    HAPPY NEW YEAR  YUVI                                                      \u000aWHAT A INNINGS IN 2ND T-20 AGAINST PAKISTAN
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_rt_sachin it's VERY DIFFICULT TO BELIVE THAT YOU WILL BE RETIRED FROM ONE DAY
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@YusraSAskari  WHAT A INNINGS                                                                                     HAPPY NEW YEAR
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@_rt_sachin  is  anderson bowling is difficult to  play
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BeingSalmanKhan   best  of  luck  for  dabangga2
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BCCI india in bad  situation
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@DaleSteyn62 happy  new  year  in  ad
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChiPhotos: by thejohnnycolorado: #chicago #chitecture #chicagoriver #riverpoint #150nriverside https://t.co/EZ8tE796Mb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChiPhotoGuy: .@150NRiverside is a such impressive piece of engineering. More photos from inside here &gt; https://t.co/O2O9QrwTlC https://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChiPhotoGuy: New views coming together at @150NRiverside &gt; https://t.co/HK2d6rBVCS https://t.co/hDvJS1fnNg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMost importantly, no injuries.  Clark construction is issuing a press release Friday.
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDespite some uninformed reporting otherwise, there has been NO concrete "collapse" at @150nriverside, and no structural damage.....
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+V150 North Riverside is using some of the largest steel sections in the world --&gt; https://t.co/aNNzcwjZjs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @cbrechicago: Navigant in negotiation to move headquarters to @150NRiverside #office #highrise http://t.co/gVDv7xZQMO http://t.co/SDde67\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoArchitec: 150 North Riverside, resplendent under yesterday's partly-cloudy skies. http://t.co/F17sKi9g7a
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VShe's a beauty!  https://t.co/kcM3n0qc1K
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoArchitec: The view of 150 N Riverside from across the pond. That Boeing building ain't hard to look at, either. http://t.co/eQOQ\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@thedanielschell 150NR will absolutely be as cool! Check out renderings &amp; video here http://t.co/RfTVUgC61j https://t.co/KwkSg5zfyz
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ChicagoArchitec It's in the works! http://t.co/VTInWN9eGD https://t.co/LrBJDf5jj3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @aisc: Great turnout for our first #steelday event! Rob Chmielowski of @MKA_Inc , for @150NRiverside http://t.co/c0MjCEK6C9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @TonyScacco: @150NRiverside http://t.co/p1zVNHLSst
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoArchitec: 150 N Riverside gets cooler every day. River theater at its finest. http://t.co/UeHFRvnbQb
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoArchitec: Evening sun at 150 N Riverside, illuminating Boeing HQ. http://t.co/Ox7HS6Xmh0
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCheck out our updated video and renderings! http://t.co/BGgMIR5qpg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@HyattTweets \u2013 Welcome to your future Home. We\u2019re honored to have you! http://t.co/og80GoaErq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you to our partners and lenders, particularly Bank of America, the lead construction lender for the project. http://t.co/lYPsfZoN6i
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@150NRiverside - Go Big or Go Home!  http://t.co/mquVdmH9kH
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/AGKBw99euU
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/NXEhQk0G8X
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAnwar al-Sadat - Facts https://t.co/o3tV7OHSgh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/GAHJhVJTqM
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/pPUXZggVSM
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/g18nfUzwRu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWalter Hess - Facts https://t.co/LRuyfZmS8B
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFrederick Reines - Facts https://t.co/0JeYlD2suQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/SjA5cSAviV
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/8RyVmdBKSg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/umTbA28O7D
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/tnHIGQGYU4
+p2
+sS'label'
+p3
+S'66'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/14t88MRrhF
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/aN73t9IFTp
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/aN73ta0hhZ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEdward C. Kendall - Facts https://t.co/sVmllayRo9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/kRD5txwjrq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/rgC70TL19V
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/ojUOnsbgfR
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNobel Laureate Birthdays https://t.co/edMFiBCryF
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@aamir_khan ...Sach hai bhai...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@nst_nicole Rock shock
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @TelleTWA: My Dad is the best http://t.co/roN5f4UGog
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @justinbieber: What Do You Mean? @twentyonepilots #12Days http://t.co/hAuShVlaho
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Cubs: Next stop, with a special guest! Thanks to @CMPunk for helping us #FlyTheW. #DaleyPlaza https://t.co/PkWOyOWLiX
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AndrewCTE: Misery loves company. http://t.co/pV9WOyDDzM
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @tylerrjoseph: when they won't play the old stuff http://t.co/Ayn47d1rOP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AndrewCTE: Chicago. Why you so chilly?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @tylerrjoseph: gangsters don't let their gangster frens cry but my frens and i cry all the time.\u000abye.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @AndrewCTE: You think this is a fucking game? @licknord http://t.co/8XSOK84nwf
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @joshuadun: when ur REL tired but u wanna play the drums so bad http://t.co/uC1LUjGP4r
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @TolarNadia: Math class was lit today \u000a@twentyonepilots @tylerrjoseph \u000a@joshuadun #twentyonepilots http://t.co/d9DYxpGwr4
+p2
+sS'label'
+p3
+S'1'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @tylerrjoseph: http://t.co/HFCG9YD7Pt
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @joshuadun: last time I was in Europe, I broke the rule "no foreign objects in the toilet". I totally put American urine in there.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @olobersyko: This is karma for writing a song called "for Stevie wonders eyes only" init get us back to number one http://t.co/6gbZilmCgC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @olobersyko: Stevie wonder is good &amp; all but fuck that shit lets knock him back off! @TheVampsband http://t.co/9Fqa4w0BR5\u2026 http://t.co/U\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @markhoppus: .@gerardway TFW your dad takes you into the city to see a marching band. http://t.co/A8v6e5k5iw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @markhoppus: @markhoppus
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @markhoppus: i like listening to music.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @olobersyko: If we go number one we will give you acoustic drown for free (since your begging for it)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @olobersyko: IDK how you've done it but USA you fucking rule. Now GO TELL YOUR FRIENDS ABOUT IT \U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8\U0001f1fa\U0001f1f8 https://t.co/aEejYv\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @httpkellin: Will Smith says buy That's The Spirit @bmthofficial @olobersyko @JordanFish86 @matt__kean @madmanmalia http://t.co/Ny0woOTP\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCheck out WhatsApp Messenger for your smartphone. Download it today from https://t.co/NBbvCMP1rl http://t.co/JtYND6aMOa
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@757LiveNews INDIA......... :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy waala Dussehra to all :)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ShivamGurao may be its bye......option B
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Ebthal1420 @alkhadhrawii \U0001f49a\U0001f49a
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @omar_abohaffs: \u0644\u0648 \u0623\u0646 \u0627\u0644\u0646\u0627\u0633 \u0643\u0644\u0645\u0627 \u0627\u0633\u062a\u0635\u0639\u0628\u0648\u0627 \u0623\u0645\u0631\u0627\u064b \u062a\u0631\u0643\u0648\u0647 \u060c \u0645\u0627 \u0642\u0627\u0645 \u0644\u0644\u0646\u0627\u0633 \u062f\u0646\u064a\u0627 \u0648 \u0644\u0627 \u062f\u064a\u0646 .
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @imam_ali_says: \u0642\u0627\u0644 \u0623\u0645\u064a\u0631 \u0627\u0644\u0645\u0624\u0645\u0646\u064a\u0646 \u0639\u0644\u064a\u0647 \u0627\u0644\u0633\u0644\u0627\u0645 : \u0645\u0646 \u063a\u0644\u0628 : \u0639\u0642\u0644\u0647 \u0634\u0647\u0648\u062a\u0647 \u060c \u0641\u0647\u0648 \u062e\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u0644\u0627\u0626\u0643\u0629 . \u0648 \u0645\u0646 \u063a\u0644\u0628\u062a : \u0634\u0647\u0648\u062a\u0647 \u0639\u0642\u0644\u0647 \u060c \u0641\u0647\u0648 \u0634\u0631 \u0645\u0646 \u0627\u0644\u0628\u0647\u0627\u0626\u0645 .
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@fareed7070 @saad_saeed1 @dark010203 \u0627\u0644\u0623\u063a\u0644\u0627\u0637 \u062c\u0627\u0628\u062a \u0644\u064a \u062c\u0644\u0637\u0647 \U0001f610\U0001f494
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@MoaSalem @dark010203
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MoaSalem: \u0645\u0647\u062a\u0645\u064a\u0646 \u0628\u0642\u0636\u064a\u0629 #\u0628\u0627\u0631\u064a\u0633 \u0627\u0643\u062b\u0631 \u0645\u0646 \u0642\u0636\u0627\u064a\u0627\u0646\u0627\u000a\u000a#\u0644\u0646\u0635\u0641\u0642_\u0644\u0627\u0646\u0641\u0633\u0646\u0627 \U0001f44f\U0001f3fc\U0001f44f\U0001f3fc
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@spagov @dark010203
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Asim_HD @mai_ahmd @Bjafen \u0645\u0639 \u0627\u0644\u0623\u0633\u0641 \u0627\u0644\u0634\u062f\u064a\u062f \u0643\u062b\u064a\u064a\u0631 \u0639\u0627\u062f\u064a \u0639\u0646\u062f\u0647\u0645 \u064a\u0639\u062a\u0631\u0641\u0648\u0627 \u0628\u0639\u062f\u0645 \u0645\u062d\u0628\u0651\u062a\u0647\u0645 \u0644\u0644\u0642\u0631\u0627\u0621\u0647\u061b \u0634\u064a \u0639\u062c\u0632 \u064a\u0633\u062a\u0648\u0639\u0628\u0647 \u0639\u0642\u0644\u064a.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@dark010203 \U0001f4aa
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ketab_n: \u0623\u0646 \u062a\u0633\u062a\u062e\u0644\u0635 \u0643\u0644 \u0641\u0627\u0626\u062f\u0629\u064d \u0645\u0646 \u0643\u062a\u0627\u0628\u064d \u0645\u0627 \u0647\u0648 \u0641\u0646\u064c \u0642\u0627\u0626\u0645\u064c \u0628\u0630\u0627\u062a\u0647\u060c \u0648\u0647\u0648 \u0641\u0646\u064c \u0639\u0638\u064a\u0645 \u064a\u0648\u0627\u0632\u064a \u0641\u0646 \u0627\u0644\u0643\u062a\u0627\u0628\u0629 \u0630\u0627\u062a\u0647\u0627. \u000a\u0645\u064a\u0644\u0644\u0631\u000a#\u062f\u0627\u062e\u0644_\u0627\u0644\u0645\u0643\u062a\u0628\u0629_\u062e\u0627\u0631\u062c_\u0627\u0644\u0639\u0627\u0644\u0645
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @mqasem: \u0625\u062f\u0645\u0627\u0646 \u0627\u0644\u0647\u0627\u062a\u0641 \u064a\u0645\u062a\u0635 \u0627\u0644\u0631\u0648\u062d\u060c \u0647\u0643\u0630\u0627 \u0635\u0648\u0631\u0647 \u0627\u0644\u0645\u0635\u0648\u0631 Antoine Geiger. https://t.co/OM9De9MtOn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@7aji @dark010203 19 \U0001f60d\U0001f60d
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@sacuoforg @dark010203
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ketab_n: \u0644\u0627 \u064a\u0644\u0627\u0645 \u0627\u0644\u0634\u062e\u0635 \u0644\u062a\u062c\u0627\u0647\u0644\u0647 \u0635\u0646\u0641\u064b\u0627 \u0645\u0639\u064a\u0646\u064b\u0627 \u0645\u0646 \u0627\u0644\u0623\u062f\u0628 \u0645\u062b\u0644\u0645\u0627 \u0644\u0627 \u064a\u0644\u0627\u0645 \u0639\u0646\u062f\u0645\u0627 \u064a\u0635\u062f \u0639\u0646 \u0646\u0648\u0639 \u0645\u0639\u064a\u0646 \u0645\u0646 \u0627\u0644\u0637\u0639\u0627\u0645. \u000a\u000a#\u062f\u0627\u062e\u0644_\u0627\u0644\u0645\u0643\u062a\u0628\u0629_\u062e\u0627\u0631\u062c_\u0627\u0644\u0639\u0627\u0644\u0645
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@i_adel83 @BadralSharif @saudiinusa \u0625\u064a\u0647 \u0642\u064a\u0644 \u0643\u0630\u0627\u060c \u0648 \u0644\u0643\u0646 \u0627\u064a\u0636\u0627 \u0642\u0627\u0644\u0648\u0627 \u0625\u0646 \u0644\u0627 \u062a\u0639\u062a\u0645\u062f\u0648\u0627 \u0639 \u0627\u0644\u0643\u0644\u0627\u0645
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@BadralSharif @saudiinusa \u0639\u0644\u0649 \u0643\u0644\u0627\u0645 \u0627\u0644\u0645\u0644\u062d\u0642\u064a\u0629 \u0645\u0645\u0643\u0646 \u062a\u0642\u0628\u0644 \u0648 \u0645\u0645\u0643\u0646 \u0644\u0627\u0621\u060c \u0648 \u0646\u0641\u0633 \u0627\u0644\u0643\u0644\u0627\u0645 \u0627\u062e\u0630\u0646\u0627\u0647 \u0645\u0646 \u0634\u0624\u0648\u0646 \u0627\u0644\u0628\u0639\u062b\u0627\u062a
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V\u0627\u0644\u062d\u0645\u062f\u064f \u0644\u0644\u0647\u0650 \u0639\u0644\u0649 \u0627\u0644\u0623\u0635\u062d\u0627\u0628 \u0627\u0644\u0630\u064a\u0646 \u0623\u064f\u0639\u062f\u0651\u0647\u0645 \u0623\u0647\u0644\u064a. @dark010203
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ketab_n: \u0623\u0644\u0627 \u064a\u062c\u0628 \u0623\u0646 \u0646\u0639\u062a\u0628\u0631 \u0628\u0639\u0636 \u0627\u0644\u0645\u0624\u0644\u0641\u064a\u0646 \u0643\u0627\u0644\u0645\u062c\u0631\u0645\u064a\u0646 \u061f\u000a\u0627\u0644\u0630\u064a\u0646 \u064a\u0643\u062a\u0628\u0648\u0646 \u0643\u062a\u0628\u064b\u0627 \u0633\u064a\u0626\u0629\u060c \u0643\u062a\u0628\u064b\u0627 \u062a\u0636\u064a\u0639 \u0648\u0642\u062a\u0646\u0627 \u0648\u062a\u0639\u0627\u0637\u0641\u0646\u0627\u060c \u0643\u062a\u0628 \u0645\u0633\u0631\u0648\u0642\u0629 \u0648\u062e\u0627\u0637\u0626\u0629.\u000a\u000a#\u062f\u0627\u062e\u0644_\u0627\u0644\u0645\u0643\u062a\u0628\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ketab_n @dark010203
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @dark010203: *\u0627\u0639\u062a\u062f\u0646\u0627 \u0627\u0646 \u0646\u0639\u064a\u0634 \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0646\u062a\u0638\u0627\u0631 \u0645\u0631\u0627\u0647\u0646\u064a\u0646 \u0639\u0644\u0649 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0623\u0648 \u0639\u0644\u0649 \u0635\u0648\u0631\u0629 \u0632\u0627\u0626\u0641\u0629 \u0644\u0644\u0645\u0633\u062a\u0642\u0628\u0644 ..*
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTonight at @hoteldroog; an event on A Mies for All - On Democratic Architecture http://t.co/Unohc6PcNC, with @fil_ro and @matthijsbouw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BrendanCormier: A mock-up of a laser-cut plywood Farnsworth House that you can assemble yourself. @1_open http://t.co/LZLNKsH0Nw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPhotos from the Mies for All seminar last Monday are now up on the New Institute's Flickr account. http://t.co/qsRrueHYP3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MatthijsBouw: With artist Pierre Bismuth I will present will A Mies for All at the business seminar \u2013 tonight at HNI. @1_open http://t.\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MatthijsBouw: Filson &amp; Rohrbacher will talk about @atfab_co and @open_desk at A Mies for All Seminar \u2013 tonight at HNI. @1_open http://t\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MatthijsBouw: @waag and @ArchisVolume will present \u2018self building building\u2019 at A Mies for All Seminar \u2013 tonight at HNI. @1_open http://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @BrendanCormier: Very happy to be working on the A Mies For All @1_open project Tomorrow we debut our work at The New Institute. http://\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Fil_Ro: Is it Farnsworthy? You decide at A Mies For All. http://t.co/6Czb1zand5
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @alexisxrivas: @1_open Any chance this will be streamed? I'm in NYC and would love to hear the talks.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA Mies for All Seminar: New technologies, new business models for architects - Rdam 11 Nov.  http://t.co/IiL3RPvtzy http://t.co/fg2aaXgwlW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @dpr_barcelona: A Mies for all: new technologies, new business models for #architects | Nov.11 @NieuweInstituut http://t.co/4kK0cmungF v\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @benjaminkolder: Details for next week's event in Rotterdam "A Mies for all: new tech, new business models for architects"\u000a11/11/2013 ht\u2026
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Fil_Ro: A Mies For All, at The New Institute in Rotterdam, one week from today! http://t.co/6Czb1zand5
+p2
+sS'label'
+p3
+S'7'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLA Brokerage to license plans for Neutra Case Study Homes http://t.co/fDSntlGftp
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"Can architects/planners keep up with tech developments or will they be replaced by algorithms and \u2018big data\u2019?"  http://t.co/T7vdBEhzLG
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@StevenGdula thanks for your interest, and stay tuned, cos we're about to take it to the next level
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @StevenGdula: @1_open Looked at your web site, gotta say I'm intrigued!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Fil_Ro: @make @seaside5592 @makerbot Thanks for tweeting about AtFAB's Kickstarter campaign! http://t.co/hRPsmuKg7F
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhen we see Mies van der Rohe\u2019s Farnsworth House, we don\u2019t see the steel beams and floor plates. - Lacaton &amp; Vassal http://t.co/eMI138LXZW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @karmen_ana: "Less is more" said Mies van der Rohe; take a look at his breathtaking Farnsworth House. http://t.co/R8EZb1Q0k3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"They hate us because our girls go to school, because our women drive" this is a new one #Rubio #GOPDebate
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V"The Chinese are taking over the South China Sea" did I miss something?? #GOPDebate
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMaria Bartiromo doesn't seem to have a hair stylist!! Geez, someone please do something #GOPDebate
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VObama Care isn't helping anyone!! I am someone, it's helping me. #CarlyFiorina #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThis woman is the definition of #InDenial #CarlyFiorina #GOPDebate
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOnly your mother can love you #TedCruz #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEconomic calamity?? Ahh Yes, the Bush/Cheney years were wonderful #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI wouldn't shed a tear if someone pushed you off a cliff #TedCruz #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDid Carson just say Killery Clinton? #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAs if Fiorina's voice is not annoying enough, she has a sore throat which makes her even more painful to hear #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat kind of a 8 year old boy gives his allowance to #Huckabee? &amp; what kind of an asshole takes it #GOPDebate
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's great to be here in Milwaukee!!! That's something you don't hear very often. #GOPDebate
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDid anyone tell these guys that unemployment is now 5%? #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMy grand father was a coal miner, he died of black lungs, lost his eye sight, therefore we must abolish OSHA &amp; the RPA #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V$7/hour is a high fucking wage? you dumb son of a bitch #Carson #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@YallahNat @iyad_elbaghdadi I will find &amp; share a poem &amp; share a pre Islam poem describing the disastrous tribal mindset which still exists
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@iyad_elbaghdadi tribalism is in the very gene of the Arab, you see remnants everywhere, even those 100's of years removed from tribal days
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI bet every doctor in America wishes the Dr part of the Ben Carson name is not mentioned ever again #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDear Christie, HRC is right, you guys on that stage are more dangerous than any enemy the US ever had a nightmare about  #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThese lunatics shroud be rounded up &amp; taken to the nuthouse, if there any still there.  #GOPDebate
+p2
+sS'label'
+p3
+S'3'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@rodtrent @Daniel_Rubino  Let me guess.... for monopolistic practices.  ;)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@DrPizza I am using a bit over 1tb.  Not many videos. Mainly pics and legal music files. How will this affect Groove music using 1drv? |-)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIn the old days, kids used to hold on to the bumpers of school buses in the winter.  The kids had no wheels under them. @TomHall
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI am just curious.  What platform is your cell phone? https://t.co/EvmqDqDMIr Unfortunately, there is only room for 4 options.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat kind of cell phone do you use? https://t.co/ClDv5E3mne
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@fancyshawl48917  We are all of one race -- the human race.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFBI tells victims of ransomware to just pay up.  FBI can't do much about it.  https://t.co/LBD71snjKg
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMS has lots of Open Source stuff .@tahtah777 @derekeder @JoeGermuska @fileunderjeff @sarah_rigdon @AdamHecktman
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@Daniel_Rubino do you know why?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@thurrott It seems too early in the game to say NO to Windows 10.  Not even 3 months? It's not just WP, but desktop, xBox, etc.
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@thurrott Just realized I have been using Windows apps more (ie iHeartRadio). If it a good app, I  might do that instead of using a website
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThis talk is for the beginner coders https://t.co/g4zC2HOlrk Good talk @codefostter
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@tahtah777 There should be more stories like this.  https://t.co/lV0Ee1pImi was for inventor's wife.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@bdsams but you wouldn't want to write on your MB Pro.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @SocialInChicago: "Whatever you are, be a good one." - Abraham Lincoln
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSecurity flaw makes every Android device on AT&amp;T and Verizon's wireless vulnerable http://t.co/1imKHApbIN #microsoft #feedly
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @GreggBeratan: Show us your #CrappyCurb https://t.co/9ThjhyzHhc via @rootedinrights #Disability #A11Y
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @OpenStreetMapUS: LIVE now: townhall with @OpenStreetMapUS board candidates https://t.co/7GsyoJjmMv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@OpenStreetMapUS when is it beginning?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@DrPizza I agree.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThnku
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@SaminEasar hello
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/sJft3PvXNq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/zCTlwqxBrS
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#hi friendzzz Eid ki hardhik badhai
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIpl is the best cricket game#\u000a #ipl
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@@@@@  Happy diwali all users @@@@
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/8IrO7uVbkm
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhi ***-+*-+++*&amp;-+(+*&amp;*-+-&amp;*-+*&amp;&amp;-++--*::''';/;::'':;//?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WindyCityLIVE: Hypnotist @1wordchrisjones works his magic on #WindyCityLive: https://t.co/WA5mxhs3b5
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@ji_wcl I left out pretty fast.  You had a question....  Email 1wordcj@gmail.com
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WindyCityLIVE: @justpinky62 @1wordchrisjones https://t.co/vcIpz9FVAl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you friend! Come to the @ZaniesComClubs show and say hi! https://t.co/diEiONbShA
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @maltese_the: @3LWTV @WindyCityLIVE @1wordchrisjones That was AMAZING!!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks man!  https://t.co/Kom9h5M1QR
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Neverbeaffraid: @1wordchrisjones @WindyCityLIVE That was awesome Chris @WindyCityLIVE . I always been a skeptic but now I believe. Help\u2026
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttps://t.co/uqlLyrOptE !! https://t.co/0U8CFmHUov
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThanks for watching! Listen to my audio on https://t.co/4Njw8oBlgx before bed every night  https://t.co/IbW9sXmin3
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you for sharing! Let's help some people!  https://t.co/4r02TLcLs9
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI just want to make people smile! Period. @WindyCityLIVE | https://t.co/4Njw8oBlgx
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you for the kind words!! https://t.co/sXCRGWn5fN
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOoooo a close second  https://t.co/6yqI1KnPxo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @WindyCityLIVE: What do you think? Does @1wordchrisjones remind you of @Drake? #Twinning
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThank you friend!  https://t.co/JPsoN461iu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VShe's afraid of cats! @WindyCityLIVE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTWEET US IF YOU HAVE QUESTIONS https://t.co/pjv9UwA8Nf
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VFor those watching @WindyCityLIVE  who want the link to my @ZaniesComClubs show on Nov 30th- it will sell out! https://t.co/Xef03qzRMp
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V. @RyanWcl is never going to live \U0001f346 down @WindyCityLIVE
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V.@val_warner is right about those fries at @McDonalds @WindyCityLIVE #WCL
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V@PawanKalyan  thank you and wish you the same (Y)
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNice made $138 in 3 hrs Proof http://t.co/hrmQ35jX &amp; got 700 yesterday Go here and spend a bit, worth it: http://t.co/HD7RhHXW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhoa made 138 in 3 hrs Got this today http://t.co/LjD7CGpq and got 800 yesterday Go here and drop 9, worth it: http://t.co/HD7RhHXW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNice got $535 in 3 hours Got this 2day http://t.co/AcTgZytk &amp; made 450 yesterday Go here and drop $10, worth it: http://t.co/HD7RhHXW
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vel medio social
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vla tarima de la salsa \u2026\u2026 salsa sensualL
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJamás
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGestionarse a sí mismo
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vsolvencia moral -- que va que va.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vla  paz mental
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V#gira sin batallar
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUna vez mas
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLo bello es visible para los ojos..
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEmerge lo visible a los ojos
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VComo capacidad
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vnoticias de ultimo minuto
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vla paz mental
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vgira sin batallar
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VUna vez mas toda la esencia del ser esta a flor de piel
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VEcología, gestión y restauración del medio natural \u2013
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/zyrqo6zU1b
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vde MILK BluesTV\u2022hace 2 meses\u2022 22.916 reproducciones
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VMilk Blues - Spring--Summer 2013
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDios de la Musica
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ARizzo44: I have two tickets for Tuesday's game and I want one of YOU to have them! Retweet this for a chance to come watch us in the N\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Cubs: #SOLERPOWER http://t.co/0CMuSJzrSQ
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Cubs: See you Monday at Wrigley Field. #FlyTheW http://t.co/ZkLt7I1yVa
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @MLBStatoftheDay: From 1933 through 2014, Tom Seaver is only pitcher to make at least 15 post-ASG starts &amp; have an ERA as low as 1.10. h\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ESPNStatsInfo: Jake Arrieta: 1st pitcher with 15 wins this season.\u000a\u000aLast @Cubs pitcher to be 1st to 15 wins in a season: Greg Maddux in\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NHLBlackhawks: Who wants to win the 2015 #StanleyCup Championship Blu-Ray? http://t.co/0PGyv410VL
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ARizzo44: I owe u a 100k contest so here it is: simply RT this tweet for a chance to win 2 tix to tomorrow's game winner will be announ\u2026
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Cubs: Starlin goes through the left side and plates a pair! #Cubs lead 5-4! #LetsGo \U0001f525\U0001f525\U0001f525
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Cubs: #Cubs tie the ballgame on @kschwarb12's two-run homer in the 9th! #LetsGo \U0001f4a3\U0001f4a3 #FireEmojisToo
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @Cubs: Soriano gets in and out of trouble. \u000a\u000aSchwarber, KB and Rizz vs. Chapman in the 9th, 5-4 #Reds. #LetsGo
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @JJStankevitz: #Blackhawks win. Wrigley Field rejoices. #Cubs http://t.co/ftb5Dvv8U0
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NHLBlackhawks: GAME OVER! #Blackhawks win Game 5 2-1 and are now 1 win away from you know what. \u000a\u000a#ONEGOAL
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NHLBlackhawks: That 2OT game-winning goal celly. #HavingAMoment #TakeAllTheTimeYouNeedBuddy http://t.co/sPKRNRlGuT
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @NHLBlackhawks: Sometimes you just want to hug everyone in the building. http://t.co/udUYOrXgVF
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRT @ChicagoBears: LM: Selection of Butkus, Sayers make '65 draft second best in #Bears history. Link: http://t.co/kb0dpkQaKe
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCm on hawks let's hold it!
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSri Lanka pulls out the upset! Lol now time for #Blackhawks!
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWatching Cricket. What is going on?
+p2
+sS'label'
+p3
+S'2'
+p4
+s.(dp0
+S'tweetText'
+p1
+VGood one... https://t.co/krulmkTuwr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/i31fxhZtYn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCongratulations my friend Sumit Mevada. http://t.co/qdlnyxLOhw
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHey! Check out exciting offer on Snapdeal - app share Click http://t.co/L4tylu2ic1
+p2
+sS'label'
+p3
+S'4'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNice lines\u000a\u000aKisi ne kya khoob kaha hai :\u000a\u0928\u093e \u0916\u0941\u0936\u0940 \u0916\u0930\u0940\u0926 \u092a\u093e\u0924\u093e \u0939\u0942 \u0928\u093e \u0939\u0940 \u0917\u092e \u092c\u0947\u091a \u092a\u093e\u0924\u093e \u0939\u0942 \u092b\u093f\u0930 \u092d\u0940 \u092e\u0948 \u0928\u093e \u091c\u093e\u0928\u0947 \u0915\u094d\u092f\u0941 \u0939\u0930 \u0930\u094b\u091c \u0915\u092e\u093e\u0928\u0947 \u091c\u093e\u0924\u093e \u0939\u0942...
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VIt's real http://t.co/oPw46sOOBt
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/hB5BwfeQMH
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/m3eb8Wjv7n
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/v2EwejoNGH
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/kO21m5vptP
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V2COMS Wishes A Very Happy &amp; Prosperous Diwali.. https://t.co/2qc1QWa4o5
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDiversity Matters &amp; its in 2COMS Culture \u2013 To Be A Part Of This Journey, apply\u2026 https://t.co/01MUkh7Kp8 https://t.co/me2i5IIwRx
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDiversity Matters &amp; Its in 2COMS Culture - To Be A Part Of This Journey, apply @ https://t.co/saGCvGF4qw https://t.co/DVnEYwXU8J
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V2COMS wishes Shubho Bijoya to all.... https://t.co/pnnWzIgrXn
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+V2COMS Wishes All A Very Happy &amp; Prosperous Durga Puja !!!! http://t.co/XI0uCkLHpl
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VYour Career in now just a missed call away.. http://t.co/3Efy1UkVxO
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOUR CLIENTS SAY IT BEST !!! http://t.co/2fksA5kdqA
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VJobsacademy organizing Placement Fair : 2015 @ Rotary Sadan, Kolkata http://t.co/6v0HIrXUVr
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur Client speaks about our good work..... http://t.co/06XHdBo1eq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSkill India \u2013 Institute of Auto Careers \u2013 Launched by Jobsacademy https://t.co/sNwnIAwMv9 http://t.co/EOiz4tkRA2
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSkill India \u2013 Jobsacademy takes a step forward https://t.co/xaNjQ0Md9O http://t.co/Q9NrPmiDOQ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/asBU73l4lF
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHappy Independence Day http://t.co/10xfttiJcV
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/TiHQh1E8IN
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/ecVicEJ7Vs
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vhttp://t.co/Xl3mWR224A
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRole of Staffing an emerging employment avenue https://t.co/ljkZ7yybEZ
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat the Colors of Your Job Interview Clothes Convey..... WHITE.#CareerTips http://t.co/AZlzEgCDey
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat the Colors of Your Job Interview Clothes Convey..... RED.#CareerTips http://t.co/QljjUEoRmX
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWhat the Colors of Your Job Interview Clothes Convey..... BLACK.#CareerTips http://t.co/PBzP8ZpnVO
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSad.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThis tweeter stuff is an excellent idea, now if I can learn it
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VReading about nursing issues. http://tinyurl.com/c7fbyv
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VStill learning to tweet....interesting.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vlooking for nursing students to follow
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+Vreading my tweeter page
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VAttend the meeting. PLEASE!  http://tinyurl.com/c3qcqu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCan anyone send this to the appropriate officials? http://tinyurl.com/c3qcqu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VPlease help the graduating nurses from the city colleges of chicago.\u000ahttp://tinyurl.com/c3qcqu
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWould anyone care to show me how to twitter?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI am trying to understand. Thats the challenge - understanding.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWow. Loved that.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDoes anyone have any suggestions on how I can connect more with other twitters?
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VTrying to figure out how to twitter
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VDo you think its fair that the City Colleges of Chicago is witholding the degrees of nursing students who already completed the program?
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI am very concern with the way the City Colleges of Chicago is witholding the nursing students degrees. They completed the program.
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VI am very concern with the way the City Colleges of Chicago is witholding the nursing students degrees. They completed the program. Whats up
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VLets hope that round 2 of the air and water show runs with a little less water because we plan on being there from NOON TO 3. See you there
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe'll be at #milleniumpark today. Might even try to get inside the #cloudgate. hope to run into you!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VRan into @morecupcakes  at Pilsen art walk and loved their chocolate cupcake.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThnx everyone for a gr8 night @ Michigan Ave! Next destination today : Pilsen Art Walk, look/hear for us from 6 to 9.\u000ahttp://t.co/zUmcona
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VNot welcome at taylor street italian festival but they loved us on Michigan Ave! http://t.co/qcvt6n5
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VSuccessful run @ WickerPark past Tues! Next up: Festa Italiana on Taylor St @ Ashland. Look for us there 2DAY btwn 5&9. http://t.co/CoVhilh
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VHeading to #wickerpark tonight to make some noise. If you see us, join us.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VWe fixed our broken hitch. YAY ! now for attempt numero dos we will be attending pilsen critical mass this friday. http://t.co/K1b9CYa
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur website is now done with links to pictures of trailer and noise machine construction!
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VA small but critical accident kept us from making #criticalmass this month, but we'll be back on the road asap.
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VCome see us on Friday July 29 th 5:00 pm starting at Daley plaza ! !! http://t.co/2HMI3RC
+p2
+sS'label'
+p3
+S'6'
+p4
+s.(dp0
+S'tweetText'
+p1
+VOur hearts go out to all those in Paris, Beirut, and Baghdad. All those affected are in our prayers.
+p2
+sS'label'
+p3
+S'5'
+p4
+s.(dp0
+S'tweetText'
+p1
+VThis Saturday! SouthLoop Pancake Breakfast! #chicago #southloop @SLNeighbors @gr8southloop @PDNAChicago https://t.co/rQxL9xX2tq
+p2
+sS'label'
+p3
+S'6'
+p4
+s.
